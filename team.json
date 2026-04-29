@@ -1,0 +1,29 @@
+{
+    "members": [
+      {
+        "id": "johan",
+        "name": "Johan",
+        "handle": ".unknownboi",
+        "roles": ["Lead Developer", "Developer"],   ← first = primary/topmost rank
+        "status": "Online",
+        "joinedYear": "2023",
+        "avatarUrl": "https://...",
+        "about": "...",
+        "timeline": [
+          { "date": "2023", "title": "...", "desc": "..." }
+        ],
+        "skills": ["Node.js", "Discord.js"],
+        "tags": ["ERLC Community", "Free Forever"],
+        "stats": [
+          { "val": "2023", "label": "Joined" },
+          { "val": "500+", "label": "Servers" }
+        ],
+        "dataFields": [
+          { "label": "Time Zone", "val": "GMT+0" },
+          { "label": "Languages", "val": "JavaScript" },
+          { "label": "Status", "val": "Actively building" },
+          { "label": "Contact", "val": ".unknownboi on Discord" }
+        ]
+      }
+    ]
+  }
