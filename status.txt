@@ -1,19 +1,23 @@
-Apr 29, 2026
-No incidents reported today.
+Apr 30, 2026
+MAINTENANCE: Database Migration
+[COMPONENTS: Seshy Database, Seshy RuntimeEngine]
+[CRITICALITY: maintenance]
+Apr 30, 02:00 - Scheduled maintenance to improve query performance.
+Apr 30, 04:00 - RESOLVED - Migration completed ahead of schedule.
 
 Apr 28, 2026
-Connection Delays
-RESOLVED - This incident has been resolved.
-Apr 28, 14:12 PDT
-MONITORING - A fix has been implemented and we are monitoring the results.
-Apr 28, 14:02 PDT
-UPDATE - We are investigating issues with large guilds being unavailable
-Apr 28, 12:29 PDT
-INVESTIGATING - Users are experiencing delays connecting to the platform. We are investigating
-Apr 28, 12:20 PDT
+Partial API Slowdown
+[COMPONENTS: Seshy AI]
+[CRITICALITY: partial]
+Apr 28, 14:20 - INVESTIGATING - Noticed increased latency in AI inference.
+Apr 28, 15:00 - MONITORING - Scaled clusters, performance returning to normal.
 
-Apr 27, 2026
-No incidents reported.
+Apr 25, 2026
+Major Infrastructure Outage
+[COMPONENTS: ALL]
+[CRITICALITY: major]
+Apr 25, 09:00 - INVESTIGATING - Entire system is unreachable.
+Apr 25, 10:30 - RESOLVED - Cloud provider resolved their networking issue.
 
-Apr 26, 2026
+Apr 24, 2026
 No incidents reported.
