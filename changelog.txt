@@ -1,68 +1,74 @@
-VERSION 2.4.0
-DATE 2025-07-15
-FEATURE Session Management: Added SSU vote auto-start when threshold is reached
-FEATURE ERLC Integration: New /erlc queue command to view server queue status
-FEATURE Shift Management: Automated shift reminders via DM after configurable duration
-FIX Session embeds: Fixed banner image not displaying on mobile Discord clients
-FIX /warn command: Resolved escalation not triggering on 3rd infraction correctly
-SECURITY Ares Security: Improved detection of rapid role mass-deletion attacks
-UX Config wizard: Streamlined /setup to require fewer steps for basic configuration
-
-VERSION 2.3.2
-DATE 2025-07-01
-FIX ERLC API: Fixed intermittent timeout when fetching kill logs on large servers
-FIX Giveaways: Winner re-roll now correctly excludes previous winners
-FIX LOA system: End date validation no longer rejects same-day return entries
-SECURITY Dependency updates to address upstream vulnerabilities
-
-VERSION 2.3.0
-DATE 2025-06-18
-FEATURE Application System: Multi-stage applications with reviewer notes and status tracking
-FEATURE Audit Logging: Added per-module log channel overrides
-FEATURE Welcome System: New template variables — {server_name}, {member_count}, {join_date}
-FIX Promotion logs: Fixed embed footer timestamp showing incorrect timezone
-FIX Auto-mod: Anti-phishing filter no longer flags legitimate Discord CDN links
-PERF Reduced average command response time by ~40ms via connection pooling
-
-VERSION 2.2.1
-DATE 2025-06-03
-FIX Critical: Resolved issue where /ssd command would not close the active session channel
-FIX Ares Security: Whitelist entries now persist correctly across bot restarts
-BREAKING The --force flag on /ssu now requires the Session Admin role instead of any staff role
-
-VERSION 2.2.0
-DATE 2025-05-20
-FEATURE Ares Security: New dashboard command /ares status to view protection logs
-FEATURE ERLC Integration: /erlc modcalls now shows caller name, location, and timestamp
-FEATURE Giveaways: Role requirement stacking — require multiple roles to enter
-FIX Session votes: Vote count display was off-by-one in the embed footer
-FIX Staff management: Permission group deletion now properly cascades to subgroups
-
-VERSION 2.1.0
-DATE 2025-05-05
-FEATURE Infraction system: Warning decay — warnings automatically expire after configurable days
-FEATURE Custom branding: Per-embed color overrides in addition to global server color
-FIX Auto-mod: Anti-spam was incorrectly flagging bots with message components
-FIX /erlc bans: Pagination fixed for servers with more than 50 bans
-UX Improved error messages across all ERLC API commands to be more descriptive
-
-VERSION 2.0.0
+VERSION 1.0.0
 DATE 2025-04-20
-FEATURE Complete rewrite of the session management module — faster, more reliable
-FEATURE New /setup wizard with interactive step-by-step configuration
-FEATURE SSU Votes: Configurable vote threshold per server
-BREAKING Removed legacy /session commands — use /ssu and /ssd going forward
-BREAKING Config structure updated — run /setup migrate to convert your settings
-SECURITY Full audit trail for all configuration changes
+FEATURE Initial Release: Seshy is now publicly available
+FEATURE SSU/SSD System: Full session start/shutdown system with embeds and role pings
+FEATURE Application Panels: Create and manage roleplay applications
+FEATURE Welcome System: Custom welcome messages and embeds for new members
+FEATURE Staff Tools: Infraction roles, promotion tracking, and logging
+FEATURE RP Features: VC category setup, waiting channels, SSU voting, join buttons
+FEATURE Setup Wizard: Interactive setup for quick server configuration
+UX Improved overall command structure and usability
+PERF Optimised command handling for stable public release
 
-VERSION 1.9.3
+VERSION 0.9.0
+DATE 2025-04-10
+FEATURE SSU Voting System: Members can vote to start sessions
+FEATURE Join Buttons: Interactive buttons to join sessions
+FEATURE Logging System: Basic logs for moderation and SSU events
+FIX Fixed embed formatting inconsistencies across commands
+PERF Reduced command delay during high usage
+
+VERSION 0.8.0
 DATE 2025-04-01
-FIX Hotfix: Resolved bot going offline due to Discord gateway rate limiting
-FIX ERLC player list: Fixed encoding issue with usernames containing special characters
+FEATURE Staff System: Added promotion and demotion tracking
+FEATURE Infraction Roles: Assign roles based on warnings
+FEATURE Basic Moderation: Warn command and simple logging
+FIX Fixed role permission issues with staff commands
 
-VERSION 1.9.0
-DATE 2025-03-15
-FEATURE Shift tracking: Staff shift leaderboards with weekly/monthly summaries
-FEATURE Welcome system: Verification embed with custom instructions
-FIX Promotion logs: Fixed duplicate entries on rapid promotions
-PERF Optimised database queries for infraction lookups on large servers
+VERSION 0.7.0
+DATE 2025-03-25
+FEATURE Welcome System: Send messages when users join
+FEATURE Embed Builder: Custom embed support for messages
+UX Improved message formatting and readability
+FIX Fixed welcome message not triggering in some servers
+
+VERSION 0.6.0
+DATE 2025-03-18
+FEATURE Application System: Submit and review applications
+FEATURE Basic Config System: Store per-server settings
+FIX Fixed data saving issues on restart
+PERF Improved file read/write performance
+
+VERSION 0.5.0
+DATE 2025-03-10
+FEATURE SSU Command: Start sessions manually
+FEATURE SSD Command: Shutdown sessions
+FEATURE Role Pings: Notify roles during SSU
+FIX Fixed SSU command not sending embeds correctly
+
+VERSION 0.4.0
+DATE 2025-03-05
+FEATURE Embed System: First version of custom embeds
+FEATURE Command Structure: Migrated to slash commands (/)
+FIX Fixed command permission checks
+
+VERSION 0.3.0
+DATE 2025-02-28
+FEATURE Multi-server Support: Bot can now run across multiple guilds
+FEATURE Config Storage: Basic JSON-based settings system
+FIX Fixed crash when missing config file
+
+VERSION 0.2.0
+DATE 2025-02-20
+FEATURE Basic Commands: Ping, help, and test commands
+FEATURE Bot Framework Setup: Initial command handler system
+FIX Fixed bot startup errors on some environments
+
+VERSION 0.1.0
+DATE 2025-02-15
+FEATURE Core Bot Setup: Discord bot connected and running
+FEATURE Message Handling: Basic event listeners implemented
+
+VERSION 0.0.1
+DATE 2025-02-14
+INIT Project Created: Initial project structure and bot login test
