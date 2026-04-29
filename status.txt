@@ -8,7 +8,7 @@ Apr 30, 2026
 MAINTENANCE: Database Migration
 SEVERITY: maintenance
 COMPONENTS: Seshy Database, Seshy RuntimeEngine
-Apr 30, 02:00 - Scheduled maintenance to improve query performance.
+Apr 30, 02:00 - INVESTIGATING - Scheduled maintenance to improve query performance.
 Apr 30, 04:00 - RESOLVED - Migration completed ahead of schedule.
 
 Apr 28, 2026
