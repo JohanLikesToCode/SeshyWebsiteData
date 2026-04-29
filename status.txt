@@ -1,0 +1,19 @@
+Apr 29, 2026
+No incidents reported today.
+
+Apr 28, 2026
+Connection Delays
+RESOLVED - This incident has been resolved.
+Apr 28, 14:12 PDT
+MONITORING - A fix has been implemented and we are monitoring the results.
+Apr 28, 14:02 PDT
+UPDATE - We are investigating issues with large guilds being unavailable
+Apr 28, 12:29 PDT
+INVESTIGATING - Users are experiencing delays connecting to the platform. We are investigating
+Apr 28, 12:20 PDT
+
+Apr 27, 2026
+No incidents reported.
+
+Apr 26, 2026
+No incidents reported.
