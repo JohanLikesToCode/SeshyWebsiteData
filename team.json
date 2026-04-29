@@ -1,7 +1,4 @@
-// DELETE THIS ENTIRE BLOCK (around line 565-630)
-const DEMO_DATA = {
-  members: [
-    {
+{
       id: "johan",
       name: "Johan",
       handle: ".unknownboi",
