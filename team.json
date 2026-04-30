@@ -8,25 +8,33 @@
       "status": "Online",
       "joinedYear": "2023",
       "avatarUrl": "https://cdn.discordapp.com/avatars/745290656984858748/50019e586ca702a42c79bf2efe486526.webp?size=60",
-      "about": "Seshy started as a side project and became something I genuinely care about — building one bot that handles everything an ERLC server needs, without compromise. I've been coding since I was 12, and combining that with a love for ERLC communities felt like the obvious move. Outside of development I build websites, lose sleep over video games, and spend way too much time on Discord talking to people I've never met in person.",
+      "about": "Seshy started as a side project and became something I genuinely care about — building one bot that handles everything an ERLC server needs, without compromise.",
       "timeline": [
-        { "date": "2023", "title": "Seshy development begins", "desc": "Started building the first version — core session management and ERLC API integration." },
-        { "date": "2024", "title": "Ares Security launched", "desc": "Built and shipped the anti-nuke protection system after seeing too many ERLC servers get destroyed with no recourse." },
-        { "date": "2025", "title": "500+ servers milestone", "desc": "Seshy crossed 500 active servers. Kept it free. Always will." }
+        {
+          "date": "2023",
+          "title": "Seshy development begins",
+          "desc": "Started building core systems."
+        },
+        {
+          "date": "2024",
+          "title": "Ares Security launched",
+          "desc": "Anti-nuke protection system released."
+        },
+        {
+          "date": "2025",
+          "title": "500+ servers milestone",
+          "desc": "Seshy crossed 500 servers."
+        }
       ],
-      "skills": ["Node.js", "Discord.js", "Web Dev", "API Integration", "Bot Architecture", "UI Design"],
-      "tags": ["ERLC Community", "Open Source Spirit", "Free Forever", "Always Building"],
+      "skills": ["Node.js", "Discord.js", "Web Dev"],
+      "tags": ["ERLC Community", "Free Forever"],
       "stats": [
         { "val": "2023", "label": "Joined" },
-        { "val": "500+", "label": "Servers" },
-        { "val": "Free", "label": "Always" },
-        { "val": "21", "label": "Ares Layers" }
+        { "val": "500+", "label": "Servers" }
       ],
       "dataFields": [
-        { "label": "Time Zone", "val": "GMT+0" },
-        { "label": "Languages", "val": "JavaScript, HTML/CSS" },
         { "label": "Status", "val": "Actively building" },
-        { "label": "Contact", "val": ".unknownboi on Discord" }
+        { "label": "Contact", "val": ".unknownboi" }
       ]
     },
     {
