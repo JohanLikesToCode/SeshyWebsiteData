@@ -4,7 +4,7 @@
       "id": "johan",
       "name": "Johan",
       "handle": ".unknownboi",
-      "roles": ["Lead Developer", "Developer"],
+      "roles": ["Lead Developer", "Developer", "Quality Assurance"],
       "status": "Online",
       "joinedYear": "2023",
       "avatarUrl": "https://cdn.discordapp.com/avatars/745290656984858748/50019e586ca702a42c79bf2efe486526.webp?size=60",
@@ -12,22 +12,22 @@
       "timeline": [
         {
           "date": "2023",
-          "title": "Seshy development begins",
-          "desc": "Started building core systems."
+          "title": "Joined Seshy as a Lead Developer",
+          "desc": "Started building core systems to build the pre-release of Seshy."
         },
         {
           "date": "2024",
-          "title": "Ares Security launched",
-          "desc": "Anti-nuke protection system released."
+          "title": "Seshy Marketing Campaign",
+          "desc": "Seshy was brought to small ER:LC server's to be put to the test by real communities."
         },
         {
           "date": "2025",
           "title": "500+ servers milestone",
-          "desc": "Seshy crossed 500 servers."
+          "desc": "Achieved Seshy crossed 500 servers."
         }
       ],
-      "skills": ["Node.js", "Discord.js", "Web Dev"],
-      "tags": ["ERLC Community", "Free Forever"],
+      "skills": ["Node.js", "Discord.py", "Web Dev"],
+      "tags": ["Programmer", "ER:LC Server Owner"],
       "stats": [
         { "val": "2023", "label": "Joined" },
         { "val": "500+", "label": "Servers" }
@@ -38,32 +38,49 @@
       ]
     },
     {
-      "id": "ghost2",
-      "name": "—",
-      "handle": "Coming soon",
-      "roles": ["Management"],
-      "status": "Away",
-      "joinedYear": "—",
+      "id": "deathstrider",
+      "name": "Death",
+      "handle": "deathstrider114",
+      "roles": ["Developer", "Senior Support", "Support Team"],
+      "status": "Online",
+      "joinedYear": "2025",
       "avatarUrl": "",
-      "about": "This team member profile is coming soon.",
-      "timeline": [],
-      "skills": [],
-      "tags": [],
+      "about": "Developer + Managing Seshy Operations + Marketing Officer @ Seshy",
+      "timeline": [
+        {
+          "date": "2024",
+          "title": "Joined as a Moderator",
+          "desc": "Moderated Seshy's support server."
+        },
+        {
+          "date": "2025",
+          "title": "Promoted as a Developer",
+          "desc": "Helped build Seshy's ARES System and design the support server."
+        }
+      ],
+      "skills": ["Banner Design"],
+      "tags": ["Active ER:LC Roleplayer"],
       "stats": [],
       "dataFields": []
     },
     {
-      "id": "ghost3",
-      "name": "—",
-      "handle": "Coming soon",
-      "roles": ["Community Moderator"],
-      "status": "Away",
-      "joinedYear": "—",
+      "id": "pond",
+      "name": "Pond",
+      "handle": "pond_vx",
+      "roles": ["Management", "Support Team", "Quality Assurance"],
+      "status": "Online",
+      "joinedYear": "2025",
       "avatarUrl": "",
-      "about": "This team member profile is coming soon.",
-      "timeline": [],
-      "skills": [],
-      "tags": [],
+      "about": "Management of Seshy bot.",
+      "timeline": [
+        {
+          "date": "2025",
+          "title": "Joined as a Management",
+          "desc": "Helped moderate and keep Seshy support server flowing smoothly."
+        }
+      ],
+      "skills": ["Banner Design"],
+      "tags": ["Active ER:LC Roleplayer", "ER:LC Server Owner"],
       "stats": [],
       "dataFields": []
     }
