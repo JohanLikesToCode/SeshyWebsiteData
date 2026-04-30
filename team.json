@@ -12,16 +12,21 @@
       "timeline": [
         {
           "date": "2023",
-          "title": "Joined Seshy as a Lead Developer",
+          "title": "Founded and ran Seshy as a Lead Developer",
           "desc": "Started building core systems to build the pre-release of Seshy."
         },
         {
           "date": "2024",
+          "title": "v1.0 Release",
+          "desc": "Contributed to maintaining and releasing our first stable version of Seshy to the public."
+        },
+        {
+          "date": "2025",
           "title": "Seshy Marketing Campaign",
           "desc": "Seshy was brought to small ER:LC server's to be put to the test by real communities."
         },
         {
-          "date": "2025",
+          "date": "2026",
           "title": "500+ servers milestone",
           "desc": "Achieved Seshy crossed 500 servers."
         }
@@ -48,12 +53,12 @@
       "about": "Developer + Managing Seshy Operations + Marketing Officer @ Seshy",
       "timeline": [
         {
-          "date": "2024",
+          "date": "2025",
           "title": "Joined as a Moderator",
           "desc": "Moderated Seshy's support server."
         },
         {
-          "date": "2025",
+          "date": "2026",
           "title": "Promoted as a Developer",
           "desc": "Helped build Seshy's ARES System and design the support server."
         }
@@ -69,17 +74,38 @@
       "handle": "pond_vx",
       "roles": ["Management", "Support Team", "Quality Assurance"],
       "status": "Online",
-      "joinedYear": "2025",
+      "joinedYear": "2026",
       "avatarUrl": "",
       "about": "Management of Seshy bot.",
       "timeline": [
         {
-          "date": "2025",
+          "date": "2026",
           "title": "Joined as a Management",
           "desc": "Helped moderate and keep Seshy support server flowing smoothly."
         }
       ],
       "skills": ["Banner Design"],
+      "tags": ["Active ER:LC Roleplayer", "ER:LC Server Owner"],
+      "stats": [],
+      "dataFields": []
+    },
+    {
+      "id": "psalm",
+      "name": "Psalm",
+      "handle": "aurevyx.yt",
+      "roles": ["Support Team", "Quality Assurance"],
+      "status": "Online",
+      "joinedYear": "2026",
+      "avatarUrl": "",
+      "about": "Management of Seshy bot.",
+      "timeline": [
+        {
+          "date": "2026",
+          "title": "Joined as a QA Tester",
+          "desc": "Helped identify bugs and errors to keep Seshy free of any instability."
+        }
+      ],
+      "skills": [],
       "tags": ["Active ER:LC Roleplayer", "ER:LC Server Owner"],
       "stats": [],
       "dataFields": []
