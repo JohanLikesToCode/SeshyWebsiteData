@@ -1,0 +1,91 @@
+ID: welcome-to-seshy
+TITLE: Welcome to Seshy — The Future of ERLC Moderation
+SUBHEADING: Why we built the most advanced moderation bot for Emergency Response: Liberty County
+DATE: 2024-01-15
+AUTHOR: Johan
+CATEGORY: announcements
+IMAGE: https://example.com/feature-image.jpg
+CONTENT_START
+BLOCK: paragraph
+We're thrilled to announce the official launch of Seshy, a purpose-built moderation and automation bot for ERLC communities.
+BLOCK: subheading
+What makes Seshy different?
+BLOCK: paragraph
+Unlike generic Discord bots, Seshy deeply integrates with ERLC's API. This means real-time player tracking, automatic session management, and intelligent anti-nuke protection.
+BLOCK: image
+https://example.com/screenshot.jpg
+Seshy's command dashboard in action
+BLOCK: two_column
+Left column content goes here
+---
+Right column content goes here
+BLOCK: accordion
+What is Ares Security?
+Ares is our military-grade anti-nuke system with 21 protection layers including anti-ban, anti-kick, anti-role delete, and dangerous permission monitoring.
+BLOCK: callout
+tip
+Pro tip: Run /setup after inviting Seshy to configure everything in under 2 minutes!
+BLOCK: quote
+"This bot is a game changer for our ERLC server." — OfficerLogan44
+BLOCK: list
+Real-time ERLC player tracking
+Automatic SSU session management
+Ares anti-nuke protection
+Staff application system
+BLOCK: slideshow
+https://example.com/slide1.jpg
+https://example.com/slide2.jpg
+https://example.com/slide3.jpg
+BLOCK: code
+/session start --server-code "ERLC123" --public
+BLOCK: divider
+BLOCK: heading
+Get Started Today
+BLOCK: paragraph
+Invite Seshy to your server and run /setup to begin. It's free forever on the Starter plan.
+CONTENT_END
+
+=====================================
+
+ID: ares-security-deep-dive
+TITLE: Inside Ares Security: Protecting Your Discord Server from Nukes
+SUBHEADING: A technical deep dive into our 21-layer protection system
+DATE: 2024-01-20
+AUTHOR: Johan
+CATEGORY: security
+IMAGE: https://example.com/ares-banner.jpg
+CONTENT_START
+BLOCK: paragraph
+Discord nukes are becoming increasingly common. A single compromised admin account can destroy months of work in seconds. That's why we built Ares.
+BLOCK: heading
+How Ares Works
+BLOCK: paragraph
+Ares monitors every dangerous action in real-time. When a rate limit is exceeded or a dangerous permission is granted, Ares automatically responds.
+BLOCK: callout
+warning
+Ares requires Administrator permissions to protect your server properly.
+BLOCK: code
+Protection layers active: 21
+Last incident: 14 days ago
+Total blocks: 1,247
+BLOCK: list
+Anti-ban protection (rate limit: 3/10s)
+Anti-kick protection (rate limit: 5/10s)
+Anti-role delete (rate limit: 5/30s)
+Anti-channel delete (rate limit: 5/30s)
+Anti-bot addition
+Anti-dangerous role assignment
+BLOCK: subheading
+Punishment Types
+BLOCK: paragraph
+When Ares detects a threat, it can automatically: Ban, Kick, Timeout (1h/24h/7d), Strip roles, or Warn only.
+BLOCK: accordion
+What is "Dangerous Permission"?
+Dangerous permissions include: Administrator, Kick Members, Ban Members, Manage Guild, Manage Roles, Manage Channels, Manage Webhooks
+BLOCK: quote
+"Ares has saved our server from three nuke attempts. Worth every second of setup." — pond_vx
+BLOCK: heading
+Ready to Arm Your Server?
+BLOCK: paragraph
+Invite Seshy today and enable Ares Security with one command: /ares enable
+CONTENT_END
