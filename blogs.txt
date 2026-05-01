@@ -13,7 +13,7 @@ What makes Seshy different?
 BLOCK: paragraph
 Unlike generic Discord bots, Seshy deeply integrates with ERLC's API. This means real-time player tracking, automatic session management, and intelligent anti-nuke protection.
 BLOCK: image
-https://example.com/screenshot.jpg
+https://s6.imgcdn.dev/YfSLJH.png
 Seshy's command dashboard in action
 BLOCK: two_column
 Left column content goes here
