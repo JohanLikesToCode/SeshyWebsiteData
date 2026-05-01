@@ -89,3 +89,64 @@ Ready to Arm Your Server?
 BLOCK: paragraph
 Invite Seshy today and enable Ares Security with one command: /ares enable
 CONTENT_END
+
+=====================================
+
+ID: seshy-testing-v1-1-migration
+TITLE: Seshy Testing Phase Complete for V1.1
+SUBHEADING: A new chapter begins - releasing under 24 hours.
+DATE: 2026-05-01
+AUTHOR: .unknownboi
+CATEGORY: announcements
+IMAGE: https://s6.imgcdn.dev/Yf7HCN.png
+CONTENT_START
+BLOCK: paragraph
+After an intense period of development, iteration, and community-driven testing, Seshy V1.1 has officially completed its testing phase.\n\nWe’re now just 24 hours away from the release of the next evolution of Seshy.\n\nThis update isn’t just a patch — it’s a complete step forward in how Seshy operates, feels, and integrates into your server.
+BLOCK: heading
+The Testing Phase
+BLOCK: paragraph
+The testing phase brought together a group of dedicated contributors such as server owners, observers and community members who helped push Seshy to its limits
+BLOCK: quote
+"This version exists because of the poeple who tested it, broke it, and helped rebuild it stronger"
+BLOCK: paragraph
+Their feedback has been critical in shaping what V1.1 has become.
+BLOCK: subheading
+Special Thanks to:
+BLOCK: list
+Community testers\nServer owners who implemented early builds\nObservers who reported edge cases\nContributors who suggested improvements
+BLOCK: heading
+What’s New in V1.1
+BLOCK: paragraph
+This release focuses on flexibility, performance, and control.
+BLOCK: subheading
+Enhanced Security
+BLOCK: list
+Improved anti-nuke systems\nStronger safeguards against misuse\nMore reliable backend handling
+BLOCK: subheading
+Rewritten Core Systems
+BLOCK: list
+Sessions system rebuilt from the ground up\nApplications system redesigned\nGiveaway system fully rewritten
+BLOCK: subheading
+Command Overhaul
+BLOCK: list
+Many commands have been completely rewritten\nCleaner structure and improved reliability\nBetter scalability for future updates
+BLOCK: divider
+BLOCK: subheading
+More Control Than Ever
+BLOCK: paragraph
+One of the biggest upgrades in V1.1 is customization.\n\nYou now have significantly more flexibility when configuring Seshy:
+BLOCK: list
+Interactive buttons\nFully customizable embeds\nEasier editing and management\nMore modular systems for server-specific needs
+BLOCK: callout
+tip|\n💡 Tip: This version is designed to adapt to your server — not force you into a fixed structure.
+BLOCK: heading
+What Happens Next?
+BLOCK: paragraph
+We're entering the final 24-hour window before release\n\nDuring this time final checks and minor adjustments will be made. Service will be packages for migration. After release, systems will be monitored closely and additional improvements will follow rapidly. All updates will be posted on the [discord](https://discord.gg/y5MTA5Qe2r) , [changelog](https://seshyapp.vercel.app/changelog.html) and the [status page](https://seshyapp.vercel.app/status.html).
+BLOCK: callout
+warning|\n⚠️ Warning: While stable, this is still an evolving system. Expect ongoing improvements and refinements post-release.
+BLOCK: heading
+Thank you!
+BLOCK: paragraph
+To everyone who contributed — directly or indirectly — thank you.\n\nSeshy V1.1 wouldn’t be what it is without you.
+CONTENT_END
