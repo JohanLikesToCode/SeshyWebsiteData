@@ -4,7 +4,7 @@ SUBHEADING: Why we built the most advanced moderation bot for Emergency Response
 DATE: 2024-01-15
 AUTHOR: Johan
 CATEGORY: announcements
-IMAGE: https://example.com/feature-image.jpg
+IMAGE: https://s6.imgcdn.dev/YfSmxC.png
 CONTENT_START
 BLOCK: paragraph
 We're thrilled to announce the official launch of Seshy, a purpose-built moderation and automation bot for ERLC communities.
