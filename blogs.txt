@@ -13,7 +13,7 @@ What makes Seshy different?
 BLOCK: paragraph
 Unlike generic Discord bots, Seshy deeply integrates with ERLC's API. This means real-time player tracking, automatic session management, and intelligent anti-nuke protection.
 BLOCK: image
-https://s6.imgcdn.dev/YfSLJH.png
+https://s6.imgcdn.dev/YfSmxC.png
 Seshy's command dashboard in action
 BLOCK: two_column
 Left column content goes here
@@ -24,7 +24,7 @@ What is Ares Security?
 Ares is our military-grade anti-nuke system with 21 protection layers including anti-ban, anti-kick, anti-role delete, and dangerous permission monitoring.
 BLOCK: callout
 tip
-Pro tip: Run /setup after inviting Seshy to configure everything in under 2 minutes!
+Pro tip: Run /setting after inviting Seshy to configure everything in under 2 minutes!
 BLOCK: quote
 "This bot is a game changer for our ERLC server." — OfficerLogan44
 BLOCK: list
@@ -33,16 +33,16 @@ Automatic SSU session management
 Ares anti-nuke protection
 Staff application system
 BLOCK: slideshow
-https://example.com/slide1.jpg
-https://example.com/slide2.jpg
-https://example.com/slide3.jpg
+https://s6.imgcdn.dev/YfSg3d.png
+https://s6.imgcdn.dev/YfS8wl.png
+https://imgcdn.dev/i/YfSJUh
 BLOCK: code
-/session start --server-code "ERLC123" --public
+/ssu    OR     /ssd    OR     /ssu_vote 
 BLOCK: divider
 BLOCK: heading
 Get Started Today
 BLOCK: paragraph
-Invite Seshy to your server and run /setup to begin. It's free forever on the Starter plan.
+Invite Seshy to your server and run /settings to begin. It's free forever on the Starter plan.
 CONTENT_END
 
 =====================================
@@ -53,7 +53,7 @@ SUBHEADING: A technical deep dive into our 21-layer protection system
 DATE: 2024-01-20
 AUTHOR: Johan
 CATEGORY: security
-IMAGE: https://example.com/ares-banner.jpg
+IMAGE: https://s6.imgcdn.dev/YfSLJH.png
 CONTENT_START
 BLOCK: paragraph
 Discord nukes are becoming increasingly common. A single compromised admin account can destroy months of work in seconds. That's why we built Ares.
