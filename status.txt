@@ -2,8 +2,7 @@ May 02, 2026
 MAINTENANCE: Updating Seshy v1.0 to v1.1
 SEVERITY: high
 COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database, Seshy AI, GitHub Data Store
-TASK: Upgrading Seshy from v1.0 to v1.1 by migrating from a single-file system to a modular multi-file structure
-TASK: starting with merging legacy data into the new data schema.
+May 02, 12:40 Upgrading Seshy from v1.0 to v1.1 by migrating from a single-file system to a modular multi-file structure starting with merging legacy data into the new data schema.
 
 Apr 30, 2025
 MAINTENANCE: Database Migration
