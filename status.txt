@@ -6,6 +6,7 @@ May 2, 12:40 Upgrading Seshy from v1.0 to v1.1 by migrating from a single-file s
 May 2, 03:06 - INVESTIGATING - Seshy v1.0 data does not seem to be compatiable with v1.1. We are developing a script to adopt this new data format.
 May 2, 03:52 - MONITORING - We are currently delaying the update due to a data compatibility issue. We are working to resolve this currently. Seshy will not be impacted yet.
 May 2, 04:25 - INVESTIGATING - Seshy is now down for maintenance. Please wait till me complete our update.
+May 2, 05:49 - MONITORING - Migration Successful. All bot commands have been restored. We are monitoring for any bugs with the migration. We apologise for any bot alerts with the new system.
 
 Apr 30, 2025
 MAINTENANCE: Database Migration
