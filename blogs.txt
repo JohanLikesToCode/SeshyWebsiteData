@@ -6,7 +6,7 @@ AUTHOR: deathstrider114
 CATEGORY: seshy v1.1.0
 CONTENT_START
 BLOCK: image
-https://imgcdn.dev/i/Yfvitl
+<img src="https://s6.imgcdn.dev/Yfvitl.png" alt="Yfvitl.png" border="0">
 BLOCK: paragraph
 Managing an ERLC community takes more than just moderation. Server owners need reliable systems for sessions, security, staff management, and overall organization to keep their communities running smoothly.
 BLOCK: paragraph
