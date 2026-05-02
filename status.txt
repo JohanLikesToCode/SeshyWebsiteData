@@ -1,4 +1,9 @@
 May 2, 2026
+INCIDENT: Community  - Applications Down
+SEVERITY: low
+COMPONENTS: Seshy Modules
+
+May 2, 2026
 MAINTENANCE: Updating Seshy v1.0 to v1.1
 SEVERITY: maintenance
 COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database, Seshy AI, GitHub Data Store
