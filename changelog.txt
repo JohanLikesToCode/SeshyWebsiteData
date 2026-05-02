@@ -1,3 +1,14 @@
+VERSION 1.1.0
+DATE 2026-05-02
+PERF Changed to use cogs.
+UX  Rewritten /settings command.
+SECURITY Added Ares Security Module.
+FEATURE  Added /botinfo command.
+UX Rewritten giveaways.
+UX Rewritten Sessions commands (SSU, SSD, SSU Vote.)
+FEATURE  Added Seshy Settings access panel.
+UX Rewritten the Applications.
+
 VERSION 1.0.0
 DATE 2025-04-20
 FEATURE Initial Release: Seshy is now publicly available
