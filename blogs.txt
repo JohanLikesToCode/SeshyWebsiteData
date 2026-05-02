@@ -1,44 +1,10 @@
-ID: how-seshy-v1.1.0-is-improving-erlc-server-management
-TITLE: How Seshy V1.1.0 Is Improving ERLC Server Management
-SUBHEADING: The future of ERLC Server Management.
-DATE: 2026-05-02
-AUTHOR: deathstrider114
-CATEGORY: announcements
-CONTENT_START
-BLOCK: paragraph
-Managing an ERLC community takes more than just moderation. Server owners need reliable systems for sessions, security, staff management, and overall organization to keep their communities running smoothly.
-BLOCK: paragraph
-Seshy was built specifically for ERLC Discord servers to simplify these challenges. By combining moderation tools, session management, security systems, and staff organization into one platform, Seshy helps server teams operate more efficiently and professionally.
-BLOCK: paragraph
-With streamlined moderation, organized session scheduling, stronger security features, and improved staff coordination, Seshy allows communities to focus more on delivering high-quality roleplay experiences instead of handling repetitive administrative work.
-BLOCK: paragraph
-This all-in-one approach helps reduce the complexity of managing multiple systems while improving consistency across every part of server operations. Whether it is coordinating large-scale sessions, maintaining server safety, or ensuring staff teams remain organized and productive, Seshy provides practical solutions designed to support both small and expanding communities.
-BLOCK: callout
-info
-
-Seshy is completely free! You can use it anytime.
-BLOCK: accordion
-Why use Seshy?
-Seshy is not just a basic bot which you use for free. It has advanced technologies that you would usually get from a paid bot. 
-BLOCK: subheading
-When is V1.1.0 coming out?
-BLOCK: paragraph
-Seshy V1.1.0 is coming out in less than 24 hours, and will feature new security systems, better session and staff management and will also have other advanced technologies such as giveaways, and so on.
-BLOCK: divider
-BLOCK: paragraph
-Once again thank you for using Seshy Testing! We cannot wait to see you guys using Seshy V1.1.0!
-BLOCK: divider
-CONTENT_END
-
-=====================================
-
 ID: welcome-to-seshy
 TITLE: Welcome to Seshy — The Future of ERLC Moderation
 SUBHEADING: Why we built the most advanced moderation bot for Emergency Response: Liberty County
 DATE: 2024-01-15
 AUTHOR: Johan
 CATEGORY: announcements
-IMAGE: https://s6.imgcdn.dev/YfSmxC.png
+IMAGE: [https://s6.imgcdn.dev/YfSmxC.png](https://s6.imgcdn.dev/YfSmxC.png)
 CONTENT_START
 BLOCK: paragraph
 We're thrilled to announce the official launch of Seshy, a purpose-built moderation and automation bot for ERLC communities.
@@ -47,11 +13,12 @@ What makes Seshy different?
 BLOCK: paragraph
 Unlike generic Discord bots, Seshy deeply integrates with ERLC's API. This means real-time player tracking, automatic session management, and intelligent anti-nuke protection.
 BLOCK: image
-https://s6.imgcdn.dev/YfrjHn.png
+[https://s6.imgcdn.dev/YfrjHn.png](https://s6.imgcdn.dev/YfrjHn.png)
 Seshy's command dashboard in action
 BLOCK: two_column
 Left column content goes here
----
+-----------------------------
+
 Right column content goes here
 BLOCK: accordion
 What is Ares Security?
@@ -67,12 +34,12 @@ Automatic SSU session management
 Ares anti-nuke protection
 Staff application system
 BLOCK: slideshow
-https://s6.imgcdn.dev/YfSpoK.png
-https://s6.imgcdn.dev/YfrYno.png
-https://s6.imgcdn.dev/YfrhxO.png
-https://s6.imgcdn.dev/YfrM7v.png
+[https://s6.imgcdn.dev/YfSpoK.png](https://s6.imgcdn.dev/YfSpoK.png)
+[https://s6.imgcdn.dev/YfrYno.png](https://s6.imgcdn.dev/YfrYno.png)
+[https://s6.imgcdn.dev/YfrhxO.png](https://s6.imgcdn.dev/YfrhxO.png)
+[https://s6.imgcdn.dev/YfrM7v.png](https://s6.imgcdn.dev/YfrM7v.png)
 BLOCK: code
-/ssu    OR     /ssd    OR     /ssu_vote 
+/ssu    OR     /ssd    OR     /ssu_vote
 BLOCK: divider
 BLOCK: heading
 Get Started Today
@@ -88,7 +55,7 @@ SUBHEADING: A technical deep dive into our 21-layer protection system
 DATE: 2024-01-20
 AUTHOR: Johan
 CATEGORY: security
-IMAGE: https://s6.imgcdn.dev/YfSLJH.png
+IMAGE: [https://s6.imgcdn.dev/YfSLJH.png](https://s6.imgcdn.dev/YfSLJH.png)
 CONTENT_START
 BLOCK: paragraph
 Discord nukes are becoming increasingly common. A single compromised admin account can destroy months of work in seconds. That's why we built Ares.
@@ -133,7 +100,7 @@ SUBHEADING: A new chapter begins - releasing under 24 hours.
 DATE: 2026-05-01
 AUTHOR: .unknownboi
 CATEGORY: announcements
-IMAGE: https://s6.imgcdn.dev/Yf7HCN.png
+IMAGE: [https://s6.imgcdn.dev/Yf7HCN.png](https://s6.imgcdn.dev/Yf7HCN.png)
 CONTENT_START
 BLOCK: paragraph
 After an intense period of development, iteration, and community-driven testing, Seshy V1.1 has officially completed its testing phase.
@@ -208,4 +175,38 @@ BLOCK: paragraph
 To everyone who contributed — directly or indirectly — thank you.
 
 Seshy V1.1 wouldn’t be what it is without you.
+CONTENT_END
+
+=====================================
+
+ID: how-seshy-v1.1.0-is-improving-erlc-server-management
+TITLE: How Seshy V1.1.0 Is Improving ERLC Server Management
+SUBHEADING: The future of ERLC Server Management.
+DATE: 2026-05-02
+AUTHOR: deathstrider114
+CATEGORY: announcements
+CONTENT_START
+BLOCK: paragraph
+Managing an ERLC community takes more than just moderation. Server owners need reliable systems for sessions, security, staff management, and overall organization to keep their communities running smoothly.
+BLOCK: paragraph
+Seshy was built specifically for ERLC Discord servers to simplify these challenges. By combining moderation tools, session management, security systems, and staff organization into one platform, Seshy helps server teams operate more efficiently and professionally.
+BLOCK: paragraph
+With streamlined moderation, organized session scheduling, stronger security features, and improved staff coordination, Seshy allows communities to focus more on delivering high-quality roleplay experiences instead of handling repetitive administrative work.
+BLOCK: paragraph
+This all-in-one approach helps reduce the complexity of managing multiple systems while improving consistency across every part of server operations. Whether it is coordinating large-scale sessions, maintaining server safety, or ensuring staff teams remain organized and productive, Seshy provides practical solutions designed to support both small and expanding communities.
+BLOCK: callout
+info
+
+Seshy is completely free! You can use it anytime.
+BLOCK: accordion
+Why use Seshy?
+Seshy is not just a basic bot which you use for free. It has advanced technologies that you would usually get from a paid bot.
+BLOCK: subheading
+When is V1.1.0 coming out?
+BLOCK: paragraph
+Seshy V1.1.0 is coming out in less than 24 hours, and will feature new security systems, better session and staff management and will also have other advanced technologies such as giveaways, and so on.
+BLOCK: divider
+BLOCK: paragraph
+Once again thank you for using Seshy Testing! We cannot wait to see you guys using Seshy V1.1.0!
+BLOCK: divider
 CONTENT_END
