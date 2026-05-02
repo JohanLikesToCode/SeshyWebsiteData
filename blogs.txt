@@ -3,7 +3,7 @@ TITLE: How Seshy V1.1.0 Is Improving ERLC Server Management
 SUBHEADING: The future of ERLC Server Management.
 DATE: 2026-05-02
 AUTHOR: deathstrider114
-CATEGORY: seshy v1.1.0
+CATEGORY: announcements
 CONTENT_START
 BLOCK: paragraph
 Managing an ERLC community takes more than just moderation. Server owners need reliable systems for sessions, security, staff management, and overall organization to keep their communities running smoothly.
