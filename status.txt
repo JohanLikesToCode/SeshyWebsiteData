@@ -7,6 +7,7 @@ May 2, 03:06 - INVESTIGATING - Seshy v1.0 data does not seem to be compatiable w
 May 2, 03:52 - MONITORING - We are currently delaying the update due to a data compatibility issue. We are working to resolve this currently. Seshy will not be impacted yet.
 May 2, 04:25 - INVESTIGATING - Seshy is now down for maintenance. Please wait till me complete our update.
 May 2, 05:49 - MONITORING - Migration Successful. All bot commands have been restored. We are monitoring for any bugs with the migration. We apologise for any bot alerts with the new system.
+May 2, 06:02 - IDENTIFIED - We have figured out the issue to the bot-alert channel and now we aretesting for any errors. A private message to all server owners will be sent soon. Once our migration is 100% complete. Thanks for your patience.
 
 Apr 30, 2025
 MAINTENANCE: Database Migration
