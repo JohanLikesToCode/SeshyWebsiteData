@@ -6,8 +6,7 @@ AUTHOR: deathstrider114
 CATEGORY: seshy v1.1.0
 CONTENT_START
 BLOCK: image
-<img src="https://s6.imgcdn.dev/Yfvitl.png" alt="Yfvitl.png" border="0">
-BLOCK: paragraph
+<a href="https://imgcdn.dev/i/Yfvitl"><img src="https://s6.imgcdn.dev/Yfvitl.png" alt="Yfvitl.png" border="0"></a>BLOCK:paragraph
 Managing an ERLC community takes more than just moderation. Server owners need reliable systems for sessions, security, staff management, and overall organization to keep their communities running smoothly.
 BLOCK: paragraph
 Seshy was built specifically for ERLC Discord servers to simplify these challenges. By combining moderation tools, session management, security systems, and staff organization into one platform, Seshy helps server teams operate more efficiently and professionally.
