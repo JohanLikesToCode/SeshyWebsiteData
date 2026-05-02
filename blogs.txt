@@ -13,7 +13,7 @@ What makes Seshy different?
 BLOCK: paragraph
 Unlike generic Discord bots, Seshy deeply integrates with ERLC's API. This means real-time player tracking, automatic session management, and intelligent anti-nuke protection.
 BLOCK: image
-https://s6.imgcdn.dev/YfSmxC.png
+https://s6.imgcdn.dev/YfrjHn.png
 Seshy's command dashboard in action
 BLOCK: two_column
 Left column content goes here
@@ -33,9 +33,10 @@ Automatic SSU session management
 Ares anti-nuke protection
 Staff application system
 BLOCK: slideshow
-https://s6.imgcdn.dev/YfSg3d.png
-https://s6.imgcdn.dev/YfS8wl.png
-https://imgcdn.dev/i/YfSJUh
+https://s6.imgcdn.dev/YfSpoK.png
+https://s6.imgcdn.dev/YfrYno.png
+https://s6.imgcdn.dev/YfrhxO.png
+https://s6.imgcdn.dev/YfrM7v.png
 BLOCK: code
 /ssu    OR     /ssd    OR     /ssu_vote 
 BLOCK: divider
