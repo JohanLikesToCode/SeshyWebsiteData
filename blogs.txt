@@ -5,6 +5,8 @@ DATE: 2026-05-02
 AUTHOR: deathstrider114
 CATEGORY: seshy v1.1.0
 CONTENT_START
+BLOCK: image
+https://cdn.discordapp.com/attachments/1410552310324531264/1499998662313381898/image.png?ex=69f6d61d&is=69f5849d&hm=2e1eb05579b962abe8dfdb27e22138c16b7a3e3b0ecf14aaba2ae88ce09919eb&
 BLOCK: paragraph
 Managing an ERLC community takes more than just moderation. Server owners need reliable systems for sessions, security, staff management, and overall organization to keep their communities running smoothly.
 BLOCK: paragraph
