@@ -4,6 +4,7 @@ SEVERITY: medium
 COMPONENTS: Seshy Modules
 May 2, 07:18 - INVESTIGATING - The response channel does not work, buttons for multiple choice, multi select and ratings do not work.
 May 2, 15:33 - IDENTIFIED - We have identified the issue and are currently attempting to resolve it. It seems the matter is critical and we may need to rebuild the module.
+May 3, 12:36 - RESOLVED - The issue has been resolved. We have redone the whole component.
 
 May 2, 2026
 MAINTENANCE: Updating Seshy v1.0 to v1.1
