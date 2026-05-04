@@ -4,6 +4,7 @@ SEVERITY: high
 COMPONENTS: Seshy RuntimeEngine
 May 4, 08:07 - INVESTIGATING - Over the course of an hour, Seshy has just left more than 100 servers. We unsure of the issue. The problem is critical. Developers have been forced to shutdown the bot till we find the solution to the issue.
 May 4, 08:23 - IDENTIFIED - We have identified the issue and removed the related code. We are now observing the changes.
+May 4, 08:56 - RESOLVED - The incident has been fixed. Unfortunately, many of those servers won’t return and we are currently sitting at a loss of 100 servers. We apologise to server owners that have been affected.
 
 May 2, 2026
 INCIDENT: Community  - Applications Down
