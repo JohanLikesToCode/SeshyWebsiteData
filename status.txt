@@ -3,6 +3,7 @@ INCIDENT: Seshy Auto-leaving Servers
 SEVERITY: high
 COMPONENTS: Seshy RuntimeEngine
 May 4, 08:07 - INVESTIGATING - Over the course of an hour, Seshy has just left more than 100 servers. We unsure of the issue. The problem is critical. Developers have been forced to shutdown the bot till we find the solution to the issue.
+May 4, 08:23 - IDENTIFIED - We have identified the issue and removed the related code. We are now observing the changes.
 
 May 2, 2026
 INCIDENT: Community  - Applications Down
