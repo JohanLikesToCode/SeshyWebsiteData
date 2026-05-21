@@ -3,6 +3,7 @@ INCIDENT: Session Management Data Auto-Deleting
 SEVERITY: medium
 COMPONENTS: Seshy Modules
 May 20, 22:22 - INVESTIGATING - We have reports of a bug that seems to be configuring the session data automatically. We are aware it currently disables the module, removes modified configuration. We are working to identify this bug.
+May 21, 06:25 - INVESTIGATING - We apologise about the extended delay to fix our issue. Our developers are working with their availability to resolve the bug. We appreciate your patience.
 
 May 4, 2026
 INCIDENT: Seshy Auto-leaving Servers
