@@ -1,4 +1,10 @@
 Jun 17, 2026
+INCIDENT: Seshy Status Updates Test
+SEVERITY: low
+COMPONENTS: Seshy RuntimeEngine
+Jun 17, 07:18 - INVESTIGATING - This is a test that should be deleted soon.
+
+Jun 17, 2026
 INCIDENT: Seshy Outage
 SEVERITY: high
 COMPONENTS: Seshy RuntimeEngine
@@ -78,9 +84,6 @@ SEVERITY: high
 COMPONENTS: ALL
 Apr 25, 09:00 - INVESTIGATING - Entire system is unreachable.
 Apr 25, 10:30 - RESOLVED - Cloud provider resolved their networking issue.
-
-Apr 24, 2025
-No incidents reported.
 
 Apr 20, 2025
 INCIDENT: Database Replication Lag
