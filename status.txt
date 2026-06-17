@@ -1,3 +1,9 @@
+Jun 17, 2026
+INCIDENT: Seshy Outage
+SEVERITY: high
+COMPONENTS: Seshy RuntimeEngine
+Jun 17, 05:32 - INVESTIGATING - Currently, we are investigating the root of the problem. please standby as we figure out a the issue. We apologise for an inconvenience.
+
 Jun 9, 2026
 MAINTENANCE: Updating Seshy v1.1 to v1.1.1
 SEVERITY: maintenance
