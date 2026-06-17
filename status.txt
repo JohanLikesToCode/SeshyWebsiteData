@@ -5,6 +5,7 @@ COMPONENTS: Seshy RuntimeEngine
 Jun 17, 05:32 - INVESTIGATING - Currently, we are investigating the root of the problem. please standby as we figure out a the issue. We apologise for an inconvenience.
 Jun 17, 05:42 - IDENTIFIED - We currently believe that our server has unexpectedly shutdown. We are unable to reconnect to it to control Seshy. We are currently restarting it to restore power.
 Jun 17, 05:52 - MONITORING - We have successfully regained power back to Seshy. We are monitoring the reason for this issue and will update shortly.
+Jun 17, 06:30 - RESOLVED - Seshy has been restored successfully. It seems our server decided to freeze caused by a hardware-driver instability that resulted a loss of access on our end and Discord bot downtime. A manual reboot resolved the issue and services are now stable.
 
 Jun 9, 2026
 MAINTENANCE: Updating Seshy v1.1 to v1.1.1
