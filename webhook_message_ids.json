@@ -1,4 +1,5 @@
 {
+  "Jun 17, 2026|Seshy Status Updates Test": "1516703542625173559",
   "Jun 17, 2026|Seshy Outage": "1516701072331374713",
   "Jun 9, 2026|Updating Seshy v1.1 to v1.1.1": "1516701073379950613",
   "Jun 8, 2026|Preparation for v1.1.1": "1516701074650562701",
@@ -8,6 +9,5 @@
   "May 2, 2026|Updating Seshy v1.0 to v1.1": "1499969084165460058",
   "Apr 30, 2025|Database Migration": "1516701079784656948",
   "Apr 28, 2025|Partial API Slowdown": "1516701081160388628",
-  "Apr 25, 2025|Major Infrastructure Outage": "1516701082250645514",
   "Apr 20, 2025|Database Replication Lag": "1516701083500675183"
 }
