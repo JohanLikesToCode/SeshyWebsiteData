@@ -1,9 +1,3 @@
-Jul 8, 2026
-INCIDENT: Seshy Outage
-SEVERITY: critical
-COMPONENTS: Seshy RuntimeEngine
-Jul 8, 05:34 - INVESTIGATING - It seems that our services have had a VPS outage. We are in the process of contacting our rescue team to figure out how badly we are affected.
-
 Jun 17, 2026
 INCIDENT: Seshy Status Updates Test
 SEVERITY: low
