@@ -1,3 +1,9 @@
+Jul 8, 2026
+INCIDENT: Seshy Outage
+SEVERITY: critical
+COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database
+Jul 8, 06:49 - INVESTIGATING - We are aware about the outage with Seshy. Our discord connection provider is currently experiencing a maintenance outage. We have no control at this stage. We will continue to update when we start getting control of the situation.
+
 Jun 17, 2026
 INCIDENT: Seshy Status Updates Test
 SEVERITY: low
