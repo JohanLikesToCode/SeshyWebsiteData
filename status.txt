@@ -3,6 +3,7 @@ INCIDENT: Seshy Outage
 SEVERITY: high
 COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database
 Jul 8, 07:03 - INVESTIGATING - We are aware about the outage with Seshy. Our discord connection provider is currently experiencing a maintenance outage. We have no control at this stage. We will continue to update when we start getting control of the situation.
+Jul 8, 15:40 - IDENTIFIED - We have established communication with our connection provider after hours of contact. Unfortunately, due to a entire system outage, we will need to restart our VPS but our team is currently on break. We expect a team member to restart our RuntimeEngine within 24 hours. We apologise for such a delay to your sessions.
 
 Jun 17, 2026
 INCIDENT: Seshy Status Updates Test
