@@ -1,4 +1,12 @@
+Jul 8, 2026
+ID: c4bf88
+INCIDENT: Seshy Outage
+SEVERITY: critical
+COMPONENTS: Seshy RuntimeEngine
+Jul 8, 05:34 - INVESTIGATING - It seems that our services have had a VPS outage. We are in the process of contacting our rescue team to figure out how badly we are affected.
+
 Jun 17, 2026
+ID: 33829e
 INCIDENT: Seshy Status Updates Test
 SEVERITY: low
 COMPONENTS: Seshy RuntimeEngine
@@ -7,6 +15,7 @@ Jun 17, 07:29 - MONITORING - Description
 Jun 17, 07:38 - IDENTIFIED - This is a secondary test which will be deleted soon.
 
 Jun 17, 2026
+ID: baf088
 INCIDENT: Seshy Outage
 SEVERITY: high
 COMPONENTS: Seshy RuntimeEngine
@@ -16,12 +25,14 @@ Jun 17, 05:52 - MONITORING - We have successfully regained power back to Seshy. 
 Jun 17, 06:30 - RESOLVED - Seshy has been restored successfully. It seems our server decided to freeze caused by a hardware-driver instability that resulted a loss of access on our end and Discord bot downtime. A manual reboot resolved the issue and services are now stable.
 
 Jun 9, 2026
+ID: f00789
 MAINTENANCE: Updating Seshy v1.1 to v1.1.1
 SEVERITY: maintenance
 COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database, GitHub Data Store
 Jun 9, 09:33 - INVESTIGATING - Seshy is moving towards a new updating with new features. The bot may restart multiple times. Please allow for disruptions to your server. This will only take 30 minutes.
 
 Jun 8, 2026
+ID: 7ebcb9
 MAINTENANCE: Preparation for v1.1.1
 SEVERITY: maintenance
 COMPONENTS: Seshy RuntimeEngine
@@ -30,6 +41,7 @@ Jun 8, 12:33 - MONITORING - We have finished maintenance. We are now clearing up
 Jun 8, 12:40 - RESOLVED - Seshy is back! Enjoy! Thanks for the patience.
 
 May 20, 2026
+ID: 50da8b
 INCIDENT: Session Management Data Auto-Deleting
 SEVERITY: medium
 COMPONENTS: Seshy Modules
@@ -38,6 +50,7 @@ May 21, 06:25 - INVESTIGATING - We apologise about the extended delay to fix our
 May 26, 03:05 - RESOLVED - The issue has been rectified and has been monitored. We have implemented a bug fix for the issue. We apologise for any data that has been lost during this stage.
 
 May 4, 2026
+ID: d734b3
 INCIDENT: Seshy Auto-leaving Servers
 SEVERITY: high
 COMPONENTS: Seshy RuntimeEngine
@@ -46,6 +59,7 @@ May 4, 08:23 - IDENTIFIED - We have identified the issue and removed the related
 May 4, 08:56 - RESOLVED - The incident has been fixed. Unfortunately, many of those servers won’t return and we are currently sitting at a loss of 100 servers. We apologise to server owners that have been affected.
 
 May 2, 2026
+ID: c1d535
 INCIDENT: Community  - Applications Down
 SEVERITY: medium
 COMPONENTS: Seshy Modules
@@ -54,6 +68,7 @@ May 2, 15:33 - IDENTIFIED - We have identified the issue and are currently attem
 May 3, 12:36 - RESOLVED - The issue has been resolved. We have redone the whole component.
 
 May 2, 2026
+ID: 3d96e7
 MAINTENANCE: Updating Seshy v1.0 to v1.1
 SEVERITY: maintenance
 COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database, Seshy AI, GitHub Data Store
@@ -66,6 +81,7 @@ May 2, 06:02 - IDENTIFIED - We have figured out the issue to the bot-alert chann
 May 2, 06:21 - RESOLVED - Seshy is now in v1.1! All systems have been moved. Be advised that servers involved in testing have their data removed unless Seshy was also in the server. We apologise for any issues caused. We will continue to monitor any issues that are brought.
 
 Apr 30, 2025
+ID: b79996
 MAINTENANCE: Database Migration
 SEVERITY: maintenance
 COMPONENTS: Seshy Database, Seshy RuntimeEngine
@@ -73,6 +89,7 @@ Apr 30, 02:00 - INVESTIGATING - Scheduled maintenance to improve query performan
 Apr 30, 04:00 - RESOLVED - Migration completed ahead of schedule.
 
 Apr 28, 2025
+ID: d35dbe
 INCIDENT: Partial API Slowdown
 SEVERITY: medium
 COMPONENTS: Seshy AI
@@ -81,6 +98,7 @@ Apr 28, 15:00 - MONITORING - Scaled clusters, performance returning to normal.
 Apr 28, 15:30 - RESOLVED - Performance fully restored.
 
 Apr 25, 2025
+ID: ccf6cd
 INCIDENT: Major Infrastructure Outage
 SEVERITY: high
 COMPONENTS: ALL
@@ -88,6 +106,7 @@ Apr 25, 09:00 - INVESTIGATING - Entire system is unreachable.
 Apr 25, 10:30 - RESOLVED - Cloud provider resolved their networking issue.
 
 Apr 20, 2025
+ID: 4642c7
 INCIDENT: Database Replication Lag
 SEVERITY: low
 COMPONENTS: Seshy Database
