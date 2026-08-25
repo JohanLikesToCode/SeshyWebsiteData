@@ -1,3 +1,46 @@
+ID: seshy-v2-devlog-01
+TITLE: Seshy v2 Dev Log #1: The Support Server, Sessions, and the Moderation Panel
+SUBHEADING: Progress since the announcement — from a growing community to a finished sessions system.
+DATE: 2026-08-25
+AUTHOR: unknownboi
+CATEGORY: devlogs
+CONTENT_START
+BLOCK: paragraph
+Since announcing Seshy v2, we've been heads down on both the rebuild itself and everything around it. Here's where things actually stand.
+BLOCK: heading
+Growing the Support Server
+BLOCK: paragraph
+We've started rebuilding our support server from the ground up — new channels, a clearer structure, and a layout designed to actually grow a community around Seshy instead of just hosting a ticket queue. We want it to be somewhere worth sticking around in, not just somewhere you visit when something breaks.
+BLOCK: paragraph
+We're also reaching out to other bot development teams to build real partnerships. Good connections with other developers and communities make everyone's project stronger, and we'd rather grow alongside people doing good work than in isolation.
+BLOCK: callout
+info
+We're also in the process of getting a custom domain — one more step toward Seshy feeling like a permanent project, not a side one.
+BLOCK: heading
+Bot Development Progress
+BLOCK: paragraph
+On the v2 rebuild itself, several core pieces are already done — some of this was actually finished before the announcement even went out.
+BLOCK: list
+Bot configuration — complete
+Dashboard home page — complete (still getting polish)
+Sessions system — fully rebuilt and finished
+A new message editor — customize any bot message exactly how you want it
+Moderation panel — built and currently in testing
+BLOCK: paragraph
+The moderation panel in particular has been a big focus, and it's now going through real testing before it ships. Getting this right matters more than getting it out fast.
+BLOCK: subheading
+Quality Assurance Testing
+BLOCK: paragraph
+With that in mind, we're considering reopening Quality Assurance Testing roles so more of you can help us catch issues before v2 reaches everyone. Nothing official yet — keep an eye on #sub-updates.
+BLOCK: divider
+BLOCK: paragraph
+Last thing — you might notice the blog you're reading this on looks a little different. We've revamped it to properly support dev logs like this one, so expect more of these as v2 comes together.
+BLOCK: paragraph
+That's everything for now. We're working hard on this, and we'd rather keep sharing progress as it happens than save it all for one big reveal.
+CONTENT_END
+
+=====================================
+
 ID: welcome-to-seshy
 TITLE: Welcome to Seshy — The Future of ERLC Moderation
 SUBHEADING: Why we built the most advanced moderation bot for Emergency Response: Liberty County
