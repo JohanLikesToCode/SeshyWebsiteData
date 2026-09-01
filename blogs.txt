@@ -11,11 +11,11 @@ Recently, a server that was using **Radar Systems**, an anti-raid and security b
 BLOCK: paragraph
 Radar was online but its raid detection did not activate.
 BLOCK: paragraph
-Radar has since publicly acnowledged that its current detection system failed to recognised the attack because the attackers used a method outside the partterns it was monitoring.
+Radar has since publicly acknowledged that its current detection system failed to recognise the attack because the attackers used a method outside the patterns it was monitoring.
 BLOCK: callout
 info
 
-Radar Systems is a new Discord security bot that is foucsed on anti-raid, anti-nuke, moderation and server protection.
+Radar Systems is a new Discord security bot that is focused on anti-raid, anti-nuke, moderation and server protection.
 BLOCK: heading
 What Happened?
 BLOCK: paragraph
@@ -23,9 +23,9 @@ The incident happened in **Excusty's Network**, a Discord server affiliated with
 BLOCK: paragraph
 The server was targeted by a **webhook raid**.
 BLOCK: paragraph
-Attackers used a webhook to send messages and target the community member role which at the time had more than 900 members.
+Attackers used a webhook to send messages and target the community member role, which at the time had more than 900 members.
 BLOCK: paragraph
-**Radar is built to detect the traditional *@everyone* or *@here* therefor did not identify the activity as a raid.**
+**Radar is built to detect the traditional *@everyone* or *@here* therefore did not identify the activity as a raid.**
 BLOCK: heading
 The Problem That Arose
 BLOCK: paragraph
@@ -39,11 +39,11 @@ They understand the security pattern that most bots would be hardcoded to and th
 BLOCK: heading
 So What About Seshy?
 BLOCK: paragraph
-There is where Ares comes in.
+That is where Ares comes in.
 BLOCK: callout
 warning
 
-**Ares is Seshy's real-time anti nuke system.** A state-of-the-art independent module that works as a protective layer for your server
+**Ares is Seshy's real-time anti-nuke system.** A state-of-the-art independent module that works as a protective layer for your server
 BLOCK: paragraph
 Ares is designed to watch the actions that can actually cause serious damage to a Discord server.
 BLOCK: paragraph
