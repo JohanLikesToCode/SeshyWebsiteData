@@ -1,3 +1,74 @@
+ID: radar-didnt-protect-my-server
+TITLE: "Radar Raided My Server"
+SUBHEADING: Radar Systems Failed To Protect Servers
+DATE: 2026-08-28
+AUTHOR: .unknownboi
+CATEGORY: general
+IMAGE: https://s6.imgcdn.dev/Y8NS0D.png
+CONTENT_START
+BLOCK: paragraph
+Recently, a server that was using **Radar Systems**, an anti-raid and security bot, was hit by a webhook raid.
+BLOCK: paragraph
+Radar was online but its raid detection did not activate.
+BLOCK: paragraph
+Radar has since publicly acnowledged that its current detection system failed to recognised the attack because the attackers used a method outside the partterns it was monitoring.
+BLOCK: callout
+info
+
+Radar Systems is a new Discord security bot that is foucsed on anti-raid, anti-nuke, moderation and server protection.
+BLOCK: heading
+What Happened?
+BLOCK: paragraph
+The incident happened in **Excusty's Network**, a Discord server affiliated with Radar.
+BLOCK: paragraph
+The server was targeted by a **webhook raid**.
+BLOCK: paragraph
+Attackers used a webhook to send messages and target the community member role which at the time had more than 900 members.
+BLOCK: paragraph
+**Radar is built to detect the traditional *@everyone* or *@here* therefor did not identify the activity as a raid.**
+BLOCK: heading
+The Problem That Arose
+BLOCK: paragraph
+A raid doesn't always look the same.
+BLOCK: paragraph
+Attackers don't have to use *@everyone*.
+BLOCK: paragraph
+They don't have to use *@here*.
+BLOCK: paragraph
+They understand the security pattern that most bots would be hardcoded to and they try to get one step ahead. If they figure out the weak point, they can use it to conduct wrongful activity.
+BLOCK: heading
+So What About Seshy?
+BLOCK: paragraph
+There is where Ares comes in.
+BLOCK: callout
+warning
+
+**Ares is Seshy's real-time anti nuke system.** A state-of-the-art independent module that works as a protective layer for your server
+BLOCK: paragraph
+Ares is designed to watch the actions that can actually cause serious damage to a Discord server.
+BLOCK: paragraph
+Because sometimes the warning sign isn't a thousand messages.
+BLOCK: paragraph
+Sometimes it can just be one administrator permission being granted to the wrong account.
+BLOCK: image
+https://s6.imgcdn.dev/Y8Nrd9.png
+BLOCK: paragraph
+
+BLOCK: divider
+BLOCK: heading
+Conclusion
+BLOCK: paragraph
+The Radar incident highlights an important reality of Discord security. **Attackers adapt**.
+BLOCK: paragraph
+A security system can be effective against one attack pattern and still be vulnerable to another. Radar has acknowledged that its current detection system failed to recognize this particular webhook raid, and we believe that's something the wider Discord security community can learn from.
+BLOCK: paragraph
+We need servers to be protected and that's why we are building **Ares**.
+BLOCK: quote
+Nukers move fast. Ares moves first.
+CONTENT_END
+
+=====================================
+
 ID: seshy-v2-devlog-01
 TITLE: Seshy v2 Dev Log #1: The Support Server, Sessions, and the Moderation Panel
 SUBHEADING: Progress since the announcement — from a growing community to a finished sessions system.
