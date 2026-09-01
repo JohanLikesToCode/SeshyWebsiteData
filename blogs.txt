@@ -1,3 +1,45 @@
+ID: 200-bumps-on-guildory
+TITLE: 200 Bumps in just 3 days!
+DATE: 2026-09-01
+AUTHOR: .unknownboi
+CATEGORY: general
+IMAGE: https://s6.imgcdn.dev/Y8iRce.png
+CONTENT_START
+BLOCK: paragraph
+Seshy Support has officially reached **200 bumps** in [Guildory](https://guildory.xyz) in just 3 days!
+BLOCK: paragraph
+That means our community has been actively promoting the server and getting in front of new people across Discord discovery. We wanted to share the result because 200 bumps in only three days is a pretty strong start.
+BLOCK: accordion
+What is Guildory?
+**Guildory** is an online platform that serves as a directory and discovery hub for Discord servers. It allows users to browse, search, and join various public Discord communities categorized by specific tags or interests, such as gaming, design, and roleplay.
+BLOCK: heading
+Why We Use Guildory?
+BLOCK: paragraph
+Guildory gives Seshy Support another place to reach people who are interested in Discord communities. It also gives members an easy way to support the server by bumping it.
+BLOCK: heading
+Out Of The Ordinary
+BLOCK: paragraph
+After seeing this much activity from the community and standing out way too much from the crowd, Guildory's Founder has joined the server to show his support.
+BLOCK: paragraph
+I am very proud to announce that Guildory has officially verified Seshy's Support Server.
+BLOCK: paragraph
+We honestly were not expecting it to happen this quickly. Our members and staff have been constantly bumping the server that even Guildory noticed.
+BLOCK: quote
+"Y'all bump to much 🙏" - zhyperxdev
+BLOCK: heading
+What's Next
+BLOCK: paragraph
+Getting verified is pretty cool as a milestone but we are NOT stopping here. We will keep going strong and marketing the server to new people to discover Seshy Support.
+BLOCK: paragraph
+**Thanks for 200 bumps**. We are so close to 550 communities and 100 members in the support server.
+BLOCK: paragraph
+You guys are insane. ❤️
+BLOCK: image
+https://s6.imgcdn.dev/Y8iWYd.png
+CONTENT_END
+
+=====================================
+
 ID: radar-didnt-protect-my-server
 TITLE: "Radar Raided My Server"
 SUBHEADING: Radar Systems Failed To Protect Servers
