@@ -1,3 +1,145 @@
+ID: seshy-v2-devlog-02
+TITLE: Seshy v2 Dev Log #2: The Team And The ER:LC Integration
+SUBHEADING: Progress since the announcement, from a growing team to new systems, integrations and a redesigned Seshy experience.
+DATE: 2026-09-07
+AUTHOR: deathstrider114 / unknownboi
+CATEGORY: devlogs
+CONTENT_START
+BLOCK: paragraph
+It has only been **five days** since our last devlog, but a lot has changed.
+
+Seshy has continued to grow, with **new team members, new systems and major redesigns** now underway.
+
+BLOCK: heading
+The Team
+
+BLOCK: paragraph
+Our **Development Team has grown**, with new members joining different areas of the project.
+
+BLOCK: paragraph
+We've also expanded our **Quality Assurance team**, giving us more testers to find bugs and make sure new features are ready for release.
+
+BLOCK: paragraph
+Our team now covers **development, web development, Discord development, ER:LC, support, QA, testing and documentation**.
+
+BLOCK: divider
+BLOCK: heading
+Development Progress
+
+BLOCK: paragraph
+Here's where everything currently stands:
+
+BLOCK: list
+**Homepage**: Complete and Redesign Started
+**Website**: Redesign In Progress
+**ER:LC Integration**: Testing and Rebuilt
+**Sessions**: Development
+**Welcome System**: Complete and Rebuilt
+**ROBLOX Integration**: Development
+**Auto-Mod**: Testing
+**Sylo**: Development
+
+BLOCK: subheading
+Homepage And Website
+
+BLOCK: paragraph
+The Seshy website is getting a **major redesign**.
+
+BLOCK: paragraph
+The homepage now features **server statistics, graphs and module information**, while we're also introducing new pages such as our **Blog system** for dev logs, updates and guides.
+
+BLOCK: subheading
+ER:LC Integration
+
+BLOCK: paragraph
+We've started work on one of Seshy's **most ambitious systems yet**, our ER:LC integration.
+
+BLOCK: paragraph
+Seshy can now communicate with the **ER:LC API** using our own webhooks and ER:LC Private API keys.
+
+BLOCK: paragraph
+The integration is still being **tested and rebuilt**, with CAD connectivity planned for the future.
+
+BLOCK: paragraph
+We're currently aiming to release the initial integration **without CAD**, allowing the community to use the core system sooner.
+
+BLOCK: subheading
+Sessions
+
+BLOCK: paragraph
+Seshy's **session management system** continues to be developed, with more tools being built to make running ER:LC sessions easier.
+
+BLOCK: image
+https://s6.imgcdn.dev/Y8WT6V.png
+
+BLOCK: subheading
+Welcome System
+
+BLOCK: paragraph
+The Seshy Welcome System has been **rebuilt and expanded**.
+
+BLOCK: list
+**Welcome Messages**: Fully customisable
+**Welcome DMs**: Added
+**Welcome Roles**: Added
+**Welcome Nicknames**: In development
+
+BLOCK: paragraph
+Messages, DMs and Roles have been **tested and are working as expected**. Nicknames are still being developed alongside our **ROBLOX OAuth2 integration**.
+
+BLOCK: image
+https://s6.imgcdn.dev/Y8ajau.png
+
+BLOCK: subheading
+ROBLOX Integration
+
+BLOCK: paragraph
+Seshy can now connect users to their **Roblox accounts through Roblox Authorisation**.
+
+BLOCK: paragraph
+This allows users to link their Roblox account to Seshy and use their **Roblox username** as their Seshy profile username.
+
+BLOCK: paragraph
+More Roblox based features are planned across Seshy.
+
+BLOCK: subheading
+Sylo
+
+BLOCK: paragraph
+We're also developing **Sylo**, an AI powered bot built specifically for the **Seshy Support Server**.
+
+BLOCK: paragraph
+Sylo is designed to answer questions about Seshy and its systems using our **AI and documentation**, helping members get support without always waiting for staff.
+
+BLOCK: paragraph
+It will also include **ticket functionality**, allowing users to escalate issues when they need further assistance.
+
+BLOCK: subheading
+Guildory
+
+BLOCK: paragraph
+Seshy is now **verified on Guildory**, giving us another way to reach new communities.
+
+BLOCK: paragraph
+We've now reached **300 bumps**, which is a huge milestone for Seshy.
+
+BLOCK: paragraph
+A special shoutout to **zhyperxdev**, the owner of Guildory, for supporting Seshy, joining our support server and helping us grow on the platform.
+
+BLOCK: paragraph
+We appreciate the support from both **zhyperxdev and the Guildory community**.
+
+BLOCK: paragraph
+*Go check out Guildory at guildory.xyz and find Seshy there too.*
+
+BLOCK: image
+https://s6.imgcdn.dev/Y8WUlK.png
+
+BLOCK: divider
+CONTENT_END
+
+=====================================
+
 ID: 200-bumps-on-guildory
 TITLE: 200 Bumps in just 3 days!
 DATE: 2026-09-01
