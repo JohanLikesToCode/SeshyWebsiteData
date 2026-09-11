@@ -1,4 +1,4 @@
-ID: seshy-v2-devlog-02
+ID: seshy-v2-devlog-03
 TITLE: Seshy v2 Dev Log #3: A New Face
 SUBHEADING: Progress across the website, modules, testing, and the road toward v2's next stage.
 DATE: 2026-09-11
