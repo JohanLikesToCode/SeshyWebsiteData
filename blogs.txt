@@ -1,4 +1,81 @@
 ID: seshy-v2-devlog-02
+TITLE: Seshy v2 Dev Log #3: A New Face
+SUBHEADING: Progress across the website, modules, testing, and the road toward v2's next stage.
+DATE: 2026-09-11
+AUTHOR: .unknownboi
+CATEGORY: devlogs
+CONTENT_START
+BLOCK: paragraph
+It's been a busy stretch since the last dev log. The team has been heads-down building, redesigning, and testing across almost every part of Seshy v2, and we're now in the final stretch of major development. Here's where everything stands.
+BLOCK: heading
+Homepage and Website
+BLOCK: paragraph
+The homepage is now finished and designed well. AND HERE IS YOUR FIRST LEAK OF THE DASHBOARD!
+BLOCK: image
+https://s6.imgcdn.dev/YJPHiN.png
+BLOCK: paragraph
+All public pages have been fully designed with a more premium website feel. The redesign touches every corner of the site, and we're confident it finally matches the standard we want for Seshy. The blog you're reading this on is part of that same push.
+BLOCK: heading
+Moderation and Staff Modules
+BLOCK: paragraph
+The moderation module has been redesigned to look good, and Ares has received the same treatment.
+BLOCK: paragraph
+Both are now heading into Stage 1 testing.
+BLOCK: paragraph
+We've also built partnerships, Ares, and the Staff Module for severe testing. Alongside this, we've started designing the moderation panel, which will connect to both the Staff Module and the ER:LC integration. This panel is a big piece of the puzzle for tying Seshy's systems together.
+BLOCK: heading
+New Modules In Testing
+BLOCK: paragraph
+We've added three new modules (really are sub-modules but... whatever), all currently in testing:
+BLOCK: list
+Counting
+Reaction Roles
+Applications
+BLOCK: paragraph
+These expand what Seshy can do for your server beyond moderation and sessions, and we're working through testing before they're ready for release.
+BLOCK: heading
+ERLC Integration
+BLOCK: paragraph
+Still building.
+BLOCK: paragraph
+This remains one of Seshy's most ambitious systems, and it's a very big task to build and then link with our other modules and systems. We're taking the time to get it right rather than rushing it out.
+BLOCK: heading
+ROBLOX Integration
+BLOCK: paragraph
+ROBLOX integration is now working and has moved into the verification tab under the Welcome Module. You can also now link your signed in account on the dashboard directly to ROBLOX through the profile settings.
+BLOCK: image
+https://s6.imgcdn.dev/YJPXSq.png
+Profile Settings!
+BLOCK: heading
+Sylo
+BLOCK: paragraph
+Sylo is getting a few more upgrades before being tested and used for the support server.
+BLOCK: paragraph
+Once live, Sylo will answer questions about Seshy and its systems using our AI and documentation, with ticket functionality for escalating issues.
+BLOCK: paragraph
+It currently already does a lot of our staff management so it has been a great use for us to keep track of how Seshy v2 development is going!
+BLOCK: heading
+Other Developements!
+BLOCK: paragraph
+We've been building partnerships as part of the wider v2 push, giving Seshy another way to reach and support new communities.
+BLOCK: paragraph
+In terms of how our community is, we're now at **350+ bumps** on Guildory. Thank you to everyone who keeps bumping us - it genuinely helps.
+BLOCK: paragraph
+We're also working to get a giveaway prepared for **100 members in the support server**. If you're not in there yet, now's a good time to join. *Powered by Sylo*
+BLOCK: paragraph
+A special thank you to **Pond** for donating $3 to the project. Every bit helps, and we appreciate the support.
+BLOCK: heading
+Progress?
+BLOCK: paragraph
+We're very anxious for bugs right now, and we're currently expecting major development to be finished in **2 weeks**
+BLOCK: paragraph
+We'll advise during future dev logs about when we move to the next stage of releasing version 2. Until then, thank you for sticking with us - the finish line is in sight.
+
+CONTENT_END
+
+=====================================
+
+ID: seshy-v2-devlog-02
 TITLE: Seshy v2 Dev Log #2: The Team And The ER:LC Integration
 SUBHEADING: Progress since the announcement, from a growing team to new systems, integrations and a redesigned Seshy experience.
 DATE: 2026-09-07
