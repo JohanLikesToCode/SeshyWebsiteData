@@ -1,3 +1,81 @@
+ID: shutdown-of-erm-bot
+TITLE: Remembering ERM
+DATE: 2026-09-15
+AUTHOR: Nitronik2434
+CATEGORY: general
+CONTENT_START
+BLOCK: paragraph
+If you've been around the community for a while, you've probably heard of ERM.
+
+BLOCK: subheading
+What is ERM?
+BLOCK: paragraph
+ERM was a Discord bot that a lot of roleplay communities used in the ROBLOX game, Emergency Response Liberty County, for things like sessions, staff management, shifts, moderation, and other server tools. It had over **25,000** communities with owners enjoying that bot from day one.
+BLOCK: paragraph
+It had all the essentials that any new roleplay needed. It was the starter kit. 
+BLOCK: image
+https://i.postimg.cc/x8RLmnmN/image-2026-09-16-085742877.png
+BLOCK: subheading
+What Happened?
+BLOCK: paragraph
+On the 14th Of September 2026 at 7:45AM AEST, ERM Founder, Mikey Whiston (@1482390498785366212) has authorised that the project would permanently shut down following a security incident.
+BLOCK: paragraph
+According to the team's announcement, a member of the ERM team used access to the server hosting ERM to **obtain an API key that belonged to a community**. That API key was then used to ban and unmod users in that community.
+BLOCK: paragraph
+The ERM team stated that the incident was isolated and the affected users were restored and all operations were back to normal. The person involved was removed from the team but the group decided that continuing ERM would not be the best interests of its communities.
+BLOCK: paragraph
+The decision was also influenced by the size of the remaining development team and ability to continue providing the level of service ERM's communities expected.
+BLOCK: paragraph
+ERM's founder also made clear that this would be a permanent shutdown, rather than another temporary closure.
+BLOCK: image
+https://i.postimg.cc/d3pw4TGy/screenshot-1.png
+BLOCK: subheading
+Respecting What ERM Built
+BLOCK: paragraph
+ERM's shutdown leaves a significant gap in the ERLC community.
+BLOCK: paragraph
+That gap exists because ERM had become a familiar part of thousands of communities. Replacing a bot with that history isn't simply a matter of recreating commands.
+BLOCK: paragraph
+ERM helped establish what communities expected from an ERLC management bot.
+BLOCK: paragraph
+**The Seshy Team recognises that.**
+BLOCK: paragraph
+There are features, ideas, and approaches that ERM introduced or helped make common across the community. We don't want to erase that history.
+BLOCK: paragraph
+**We want to build on it**
+BLOCK: divider
+BLOCK: subheading
+Where Seshy Comes In
+BLOCK: paragraph
+This is where Seshy has an opportunity to help.
+BLOCK: paragraph
+Seshy has been developed with a similar goal: **give ERLC communities a single place to manage the systems they need to operate their server.**
+BLOCK: paragraph
+Sessions, moderation, staff management, community tools, logging, applications, giveaways, reaction roles, ERLC API integration, and dashboard-based configuration are all areas Seshy is working toward supporting.
+BLOCK: code
+But Seshy isn't ERM.
+BLOCK: callout
+info
+
+We're building our own system, our own architecture, and our own approach to managing communities.
+BLOCK: paragraph
+The goal isn't to claim that Seshy is the new ERM.
+BLOCK: paragraph
+The goal is to make sure communities that relied on ERM still have somewhere to go.
+BLOCK: subheading
+A New Chapter
+BLOCK: paragraph
+We respect ERM for all the development and work that you have put to these communities. Thank you to everyone who built it, maintained it, supported it and used it. Whatever comes next, the impact ERM had on the community is worth remembering. So long ERM.
+BLOCK: quote
+Emergency Response Management - 2022-2026
+BLOCK: image
+https://i.postimg.cc/tCshJQTP/screenshot-2.png
+BLOCK: paragraph
+*We'll take it from here.*
+CONTENT_END
+
+=====================================
+
 ID: seshy-v2-devlog-03
 TITLE: Seshy v2 Dev Log #3: A New Face
 SUBHEADING: Progress across the website, modules, testing, and the road toward v2's next stage.
