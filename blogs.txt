@@ -1,3 +1,90 @@
+ID: seshy-v2-devlog-04
+TITLE: Seshy v2 Dev Log #4: Command Center
+SUBHEADING: The Moderation Desk goes live, Ares grows into a full security suite, and ER:LC gets serious.
+DATE: 2026-09-19
+AUTHOR: Claude
+CATEGORY: devlogs
+CONTENT_START
+BLOCK: paragraph
+A little over a week since Dev Log #3, and this one is our biggest yet. The Moderation Desk is now a real, living tool, Ares has grown into a complete security suite, ER:LC got a huge round of upgrades, and the whole website got another premium pass.
+BLOCK: callout
+tip
+
+**The short version:** a live staff panel with a radial action wheel, three new Ares protections, a full ER:LC settings hub, a cinematic new homepage, and Partnerships. All of it built, redesigned, and moving toward Stage 1 testing when it commences.
+BLOCK: heading
+The Moderation Desk
+BLOCK: paragraph
+Remember the moderation panel we teased last time? It's here, and it's not a mockup. The **Moderation Desk** is a live staff panel that connects directly to the Staff Module and the ER:LC integration, so your team can see what's happening in the server and act on it from one place.
+BLOCK: image
+https://i.postimg.cc/sD3NFVH3/img-1789819041.png
+The Moderation Desk: live duty status, population graph, and recent moderations in one view.
+BLOCK: subheading
+The Action Wheel
+BLOCK: paragraph
+Right-click any player or moderator card and a **radial action wheel** opens right there. Warn, kick, ban, jail, unjail, PM, kill, and more, sorted into clean groups so the action you want is always one flick away. Left-click a card and you get a full **player profile** popup with their Roblox details and in-game status.
+BLOCK: two_column
+**For moderators**
+Live duty status, a per-requirement activity breakdown, quick reasons, a real-time Global Feed, and recent moderations, all in one layout.
+---
+**For admins**
+Mixable activity requirements (hours, mod calls, messages), per-server branding, permission-gated quick actions, and a Mod Commands tab to keep your team on the same page.
+BLOCK: list
+Live Roblox username search with in-game status
+Population line graph and a richer Global Feed
+Duty status split into a per-requirement breakdown
+Quick actions rebuilt from the ground up
+BLOCK: quote
+A moderation tool should feel like a control room, not a spreadsheet. That's the bar we're building to.
+BLOCK: divider
+BLOCK: heading
+Ares Is Now a Full Security Suite
+BLOCK: paragraph
+Ares started as our anti-nuke module. It now covers a lot more ground, and everything lives on one page instead of being scattered across the dashboard.
+BLOCK: list
+**Anti-Raid:** protection against coordinated join waves
+**Anti-Bot:** keeps unwanted bot accounts out of your server
+**Blacklist:** shared ban groups you can join with a code, with Owner, Editor and Member roles and a full audit log
+**Trust tab:** one place to manage bypass lists for all of it
+BLOCK: accordion
+How do shared Blacklist groups work?
+Create a group or join one with a code. Owners manage the group, Editors maintain the list, and Members benefit from it. Every change is recorded in the audit log, so you always know who added what and when.
+BLOCK: heading
+ER:LC Gets Serious
+BLOCK: paragraph
+ER:LC remains our most ambitious system, and this stretch moved it forward a lot. There's a brand new **ER:LC Settings** tab, a live **On Duty Now** card for Activity Watch, per-role permissions, and a per-server command authorization link so each community controls exactly who can do what.
+BLOCK: subheading
+New Voice Channel tools
+BLOCK: paragraph
+Voice Channels gained **Teleport** tied to your Events Webhook, plus **Staff Scene** for getting all nearby members to a staff VC. Here's what it looks like in game:
+BLOCK: code
+;vc <abbreviation>
+;ss
+BLOCK: paragraph
+The Event Logs editor now logs alot more data such as join logs, kill logs, leave logs and more.
+BLOCK: heading
+Partnerships and Verification
+BLOCK: paragraph
+**Partnerships** is now a full system with representative tracking, ad management, and its own dashboard. On the verification side, members now sign in with Discord before linking their Roblox account, which makes the whole flow smoother and cleaner.
+BLOCK: divider
+BLOCK: heading
+The Website, Again
+BLOCK: paragraph
+We couldn't stop. The homepage now opens with a **full-bleed hero** and a soft fade-in glow, the features page has real icons and a sticky nav, the dashboard login screen has fresh visuals, and the Discord redirect page now matches the rest of the site. The dashboard also picked up spring-based motion on the power switches and modals, so everything feels alive.
+BLOCK: slideshow
+https://i.postimg.cc/wvT18RN1/img-1789819384.png
+https://i.postimg.cc/ZqjqcYQY/img-1789819418.png
+https://i.postimg.cc/Jh7XmFVn/img-1789819493.png
+https://i.postimg.cc/CMnqFDt4/img-1789819542.png
+BLOCK: heading
+What's Next?
+BLOCK: paragraph
+Major development is on track. The next milestone is **Finishing Up Baseline Development** for Moderation, Ares and the Staff Module, and we'll share how it goes in the next dev log. The finish line is in sight, and it keeps getting closer.
+BLOCK: paragraph
+Thank you for sticking with us. **Seshy v2 is close.**
+CONTENT_END
+
+=====================================
+
 ID: shutdown-of-erm-bot
 TITLE: Remembering ERM
 DATE: 2026-09-15
@@ -90,7 +177,7 @@ Homepage and Website
 BLOCK: paragraph
 The homepage is now finished and designed well. AND HERE IS YOUR FIRST LEAK OF THE DASHBOARD!
 BLOCK: image
-https://s6.imgcdn.dev/YJPHiN.png
+https://i.postimg.cc/GtdDJQWh/img-1789528562.png
 BLOCK: paragraph
 All public pages have been fully designed with a more premium website feel. The redesign touches every corner of the site, and we're confident it finally matches the standard we want for Seshy. The blog you're reading this on is part of that same push.
 BLOCK: heading
@@ -122,7 +209,7 @@ ROBLOX Integration
 BLOCK: paragraph
 ROBLOX integration is now working and has moved into the verification tab under the Welcome Module. You can also now link your signed in account on the dashboard directly to ROBLOX through the profile settings.
 BLOCK: image
-https://s6.imgcdn.dev/YJPXSq.png
+https://i.postimg.cc/ncdmBqT1/img-1789528609.png
 Profile Settings!
 BLOCK: heading
 Sylo
