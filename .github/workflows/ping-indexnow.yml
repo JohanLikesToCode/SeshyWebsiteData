@@ -1,0 +1,25 @@
+name: Ping IndexNow on blog change
+
+# Fires automatically whenever blogs.txt (or changelog.txt/status.txt) is
+# pushed to main, and tells seshy.lol's Worker to re-submit every known page
+# to IndexNow (instant for Bing/Yandex). Google has no equivalent instant API
+# for ordinary content, so this doesn't cover Google -- the sitemap fix on
+# the site side is what keeps Google's own crawl fast and reliable.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "blogs.txt"
+      - "changelog.txt"
+      - "status.txt"
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call seshy.lol indexnow-ping endpoint
+        run: |
+          curl -sS -X POST "https://seshy.lol/api/indexnow-ping" \
+            -H "x-api-secret: ${{ secrets.SESHY_API_SECRET }}" \
+            -w "\nHTTP %{http_code}\n" \
+            --fail-with-body
