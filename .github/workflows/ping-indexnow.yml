@@ -1,10 +1,5 @@
 name: Ping IndexNow on blog change
 
-# Fires automatically whenever blogs.txt (or changelog.txt/status.txt) is
-# pushed to main, and tells seshy.lol's Worker to re-submit every known page
-# to IndexNow (instant for Bing/Yandex). Google has no equivalent instant API
-# for ordinary content, so this doesn't cover Google -- the sitemap fix on
-# the site side is what keeps Google's own crawl fast and reliable.
 on:
   push:
     branches: [main]
@@ -15,11 +10,43 @@ on:
 
 jobs:
   ping:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - name: Call seshy.lol indexnow-ping endpoint
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Ping IndexNow directly
+        env:
+          INDEXNOW_KEY: ae335e8649443444bdc862971d8fa09b
         run: |
-          curl -sS -X POST "https://seshy.lol/api/indexnow-ping" \
-            -H "x-api-secret: ${{ secrets.SESHY_API_SECRET }}" \
+          set -euo pipefail
+
+          STATIC_PAGES=("" "features" "changelog" "blog" "team" "status" "dashboard")
+
+          URL_LIST=()
+          for page in "${STATIC_PAGES[@]}"; do
+            URL_LIST+=("https://seshy.lol/${page}")
+          done
+
+          if [ -f blogs.txt ]; then
+            while IFS= read -r id; do
+              [ -n "$id" ] && URL_LIST+=("https://seshy.lol/blog/${id}")
+            done < <(grep '^ID:' blogs.txt | sed 's/^ID:[[:space:]]*//; s/[[:space:]]*$//')
+          fi
+
+          URL_JSON=$(printf '%s\n' "${URL_LIST[@]}" | jq -R . | jq -s .)
+
+          PAYLOAD=$(jq -n \
+            --arg host "seshy.lol" \
+            --arg key "$INDEXNOW_KEY" \
+            --arg keyLocation "https://seshy.lol/${INDEXNOW_KEY}.txt" \
+            --argjson urls "$URL_JSON" \
+            '{host: $host, key: $key, keyLocation: $keyLocation, urlList: $urls}')
+
+          echo "Submitting ${#URL_LIST[@]} URLs to IndexNow..."
+
+          curl -sS -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d "$PAYLOAD" \
             -w "\nHTTP %{http_code}\n" \
             --fail-with-body
