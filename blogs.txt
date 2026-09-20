@@ -1,8 +1,90 @@
+ID: post-slug
+TITLE: Seshy Documentation: Everything in One Place
+SUBHEADING: We're building a dedicated documentation site to make Seshy easier to understand, configure, and use.
+DATE: 2026-09-20
+AUTHOR: AI
+CATEGORY: announcements
+CONTENT_START
+BLOCK: paragraph
+As Seshy continues to grow, so does the number of systems, commands, settings, and features that come with it. We're now building something to make all of that easier to understand. Whether you are new or existing, this site will become your hub to helping you understand how Seshy works.
+
+BLOCK: callout
+info
+
+Be advised that we are still developing this and it is yet to release but we will inform everyone when it does.
+
+BLOCK: heading
+Why We're Building It
+
+BLOCK: paragraph
+Seshy v2 has become a much larger system than what we started with. With Ares, Moderation, Staff, ER:LC, Sessions, Partnerships, Roblox integration, and more, there's a lot for server owners and staff to learn.
+
+We don't want important information to be buried in Discord messages or require you to ask our support team every time you need help.
+
+The documentation will give everyone one place to find the information they need.
+
+BLOCK: heading
+What's Going Into The Docs
+
+BLOCK: paragraph
+The documentation is being designed to cover Seshy from the ground up, from inviting the bot for the first time to configuring advanced systems.
+
+BLOCK: list
+Getting started with Seshy
+Dashboard setup and configuration
+Commands and permissions
+Module configuration
+Moderation and Staff systems
+Ares security
+ER:LC integration
+Sessions and server management
+Roblox integration
+Troubleshooting and common issues
+Frequently asked questions
+Guides for server owners and staff
+
+BLOCK: heading
+Built For Seshy v2
+
+BLOCK: paragraph
+The documentation is being built alongside Seshy v2, meaning it will be designed around the systems and architecture we're actually shipping.
+
+As new features are introduced, the documentation can grow alongside them.
+
+BLOCK: callout
+tip
+
+Our goal is simple: if you need to know how something works, you should be able to find the answer without having to ask someone.
+
+BLOCK: heading
+Still In Development
+
+BLOCK: paragraph
+The documentation site is currently being built, so not everything will be available immediately.
+
+We'll be adding pages as systems are finalised and making sure the information stays accurate as Seshy v2 continues through development and testing.
+
+BLOCK: divider
+BLOCK: heading
+What's Next?
+
+BLOCK: paragraph
+We'll continue building out the documentation alongside Seshy v2 and will share more information as the site gets closer to being ready.
+
+This is another step toward making Seshy easier to use, easier to understand, and easier to manage.
+
+BLOCK: paragraph
+Seshy v2 is getting its own documentation. 📚
+
+CONTENT_END
+
+=====================================
+
 ID: seshy-v2-devlog-04
 TITLE: Seshy v2 Dev Log #4: Command Center
 SUBHEADING: The Moderation Desk goes live, Ares grows into a full security suite, and ER:LC gets serious.
 DATE: 2026-09-19
-AUTHOR: Claude
+AUTHOR: AI
 CATEGORY: devlogs
 CONTENT_START
 BLOCK: paragraph
