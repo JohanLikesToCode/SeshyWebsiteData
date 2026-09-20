@@ -60,7 +60,7 @@ BLOCK: heading
 Still In Development
 
 BLOCK: paragraph
-The documentation site is currently being built, so not everything will be available immediately.
+The documentation site is currently being built so not everything will be available immediately.
 
 We'll be adding pages as systems are finalised and making sure the information stays accurate as Seshy v2 continues through development and testing.
 
@@ -74,7 +74,7 @@ We'll continue building out the documentation alongside Seshy v2 and will share 
 This is another step toward making Seshy easier to use, easier to understand, and easier to manage.
 
 BLOCK: paragraph
-Seshy v2 is getting its own documentation. 📚
+Seshy v2 is getting its own documentation. Who's ready? 📚
 
 CONTENT_END
 
