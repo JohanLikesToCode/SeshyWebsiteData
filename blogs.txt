@@ -1,4 +1,4 @@
-ID: post-slug
+ID: developing-seshy-docs
 TITLE: Seshy Documentation: Everything in One Place
 SUBHEADING: We're building a dedicated documentation site to make Seshy easier to understand, configure, and use.
 DATE: 2026-09-20
