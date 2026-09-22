@@ -1,3 +1,117 @@
+ID: seshy-history-from-v0-to-v2
+TITLE: From Sessions to Seshy v2
+SUBHEADING: What have we come to?
+DATE: 2026-09-22
+AUTHOR: .unknownboi
+CATEGORY: announcements
+CONTENT_START
+BLOCK: paragraph
+Seshy didn't start as the system it is today.
+BLOCK: paragraph
+Before the dashboard, modules, integrations, systems and everything we are building and bringing to v2, Seshy was much simplier.
+BLOCK: paragraph
+It started with one main idea. **To make running ER:LC sessions easier**
+BLOCK: heading
+The Beginning
+BLOCK: paragraph
+When Seshy had first started, the focus was pretty much simple.
+BLOCK: paragraph
+**Sessions.**
+BLOCK: paragraph
+The name of the bot was built around that. Sessions. Sessiony? Sessioy? Sessi? **Seshy.**
+BLOCK: paragraph
+The bot was built around helping ER:LC communities run their sessions without having to manually manage everything through Discord.
+BLOCK: paragraph
+Once, we had started to advertise our idea, we managed to get many small communities supporting the build by using it for their servers.
+BLOCK: paragraph
+We want to be honest and say that a lot of them rejected us for the fact that competitors had a much better bot that we were way off from building.
+BLOCK: paragraph
+It wasn't a massive platform. It wasn't packed with a dozen features. It was a bot that did what it needed to do and that was enough.
+BLOCK: heading
+From v0 to v1
+BLOCK: paragraph
+As more communities started using Seshy, the project started becoming much bigger than its original idea.
+BLOCK: paragraph
+We began rebuilding core systems instead of simply adding more commands.
+BLOCK: paragraph
+Sessions were rebuilt from the ground up.
+BLOCK: paragraph
+We started to expand our storage to a basic JSON configuration storage instead of using the cache from v0 and dumping it after the session was over. We brought in slash commands instead of using prefix commands.
+BLOCK: paragraph
+We then started to add moderations, welcome and custom embeds.
+BLOCK: heading
+v1
+BLOCK: paragraph
+At the start of last year, Seshy reached its first major milestone.
+BLOCK: paragraph
+V1.0.0 was the first public release.
+BLOCK: paragraph
+For the first time, Seshy brough its core systems together into a public avaliable bot.
+BLOCK: paragraph
+It includes
+BLOCK: list
+Full SSU and SSD session management
+Session embeds and role pings
+Roleplay application panels
+Custom welcome messages and embeds
+Staff tools
+Infraction roles
+Promotion tracking
+Logging
+Voice channel setup
+Waiting channels
+SSU voting
+Session join buttons
+An interactive setup wizard
+BLOCK: heading
+v1.1
+BLOCK: paragraph
+V1.1.0 arrived on May 2, 2026, and this was another major step forward.
+BLOCK: paragraph
+The command system was migrated to cogs, giving Seshy a more modular structure.
+BLOCK: paragraph
+The **/settings** command was rebuilt with a new layout and navigation, and the dashboard gained its first Seshy Settings access panel.
+BLOCK: paragraph
+Sessions were also rebuilt, with SSU, SSD and SSU Vote receiving new interaction flows focused on clarity and speed.
+BLOCK: paragraph
+Applications received a redesigned interface and flow.
+BLOCK: paragraph
+Then came one of the biggest additions. **Ares Security**. It brought permission enforcement and security directly into Seshy, giving the bot a dedicated security system alongside its existing community management features.
+BLOCK: paragraph
+V1.1.0 also introduced Staff LOA management and supervision shift management.
+
+At this point, Seshy had moved far beyond the bot we started with.
+BLOCK: heading
+v2
+BLOCK: paragraph
+Seshy v2 is the biggest update we have ever worked on.
+
+The difference is not one new feature.
+
+The difference is the scale of the entire system.
+
+What started around session management is now being built into a platform containing:
+BLOCK: list
+Sessions and ER management
+Moderation
+Staff management
+Ares security
+Roblox integration
+Applications
+Reaction Roles
+Partnerships
+Logging
+Dashboard configuration
+Verification
+Sylo
+Community management
+And more
+BLOCK: paragraph
+Seshy v2 is taking the systems we built over multiple versions and bringing them together into one much larger platform.
+CONTENT_END
+
+=====================================
+
 ID: developing-seshy-docs
 TITLE: Developing Seshy Documentation
 SUBHEADING: We're building a dedicated documentation site to make Seshy easier to understand, configure, and use.
