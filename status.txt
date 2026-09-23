@@ -1,7 +1,7 @@
 Jul 8, 2026
 INCIDENT: Seshy Outage
 SEVERITY: high
-COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database
+COMPONENTS: Discord Connectivity, Bot Commands & Modules, Data Storage
 Jul 8, 07:03 - INVESTIGATING - We are aware about the outage with Seshy. Our discord connection provider is currently experiencing a maintenance outage. We have no control at this stage. We will continue to update when we start getting control of the situation.
 Jul 8, 15:40 - IDENTIFIED - We have established communication with our connection provider after hours of contact. Unfortunately, due to a entire system outage, we will need to restart our VPS but our team is currently on break. We expect a team member to restart our RuntimeEngine within 24 hours. We apologise for such a delay to your sessions.
 Jul 9, 19:46 - INVESTIGATING - At this time, Seshy is unreachable to restart our VPS service. The team is currently attempting other strategies at this time. We apologise greatly for such an inconvenience at this time.
@@ -9,7 +9,7 @@ Jul 9, 19:46 - INVESTIGATING - At this time, Seshy is unreachable to restart our
 Jun 17, 2026
 INCIDENT: Seshy Status Updates Test
 SEVERITY: low
-COMPONENTS: Seshy RuntimeEngine
+COMPONENTS: Discord Connectivity
 Jun 17, 07:18 - INVESTIGATING - This is a test that should be deleted soon.
 Jun 17, 07:29 - MONITORING - Description
 Jun 17, 07:38 - IDENTIFIED - This is a secondary test which will be deleted soon.
@@ -18,7 +18,7 @@ Jun 17, 06:30 - RESOLVED - Resolved
 Jun 17, 2026
 INCIDENT: Seshy Outage
 SEVERITY: high
-COMPONENTS: Seshy RuntimeEngine
+COMPONENTS: Discord Connectivity
 Jun 17, 05:32 - INVESTIGATING - Currently, we are investigating the root of the problem. please standby as we figure out a the issue. We apologise for an inconvenience.
 Jun 17, 05:42 - IDENTIFIED - We currently believe that our server has unexpectedly shutdown. We are unable to reconnect to it to control Seshy. We are currently restarting it to restore power.
 Jun 17, 05:52 - MONITORING - We have successfully regained power back to Seshy. We are monitoring the reason for this issue and will update shortly.
@@ -27,14 +27,14 @@ Jun 17, 06:30 - RESOLVED - Seshy has been restored successfully. It seems our se
 Jun 9, 2026
 MAINTENANCE: Updating Seshy v1.1 to v1.1.1
 SEVERITY: maintenance
-COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database, GitHub Data Store
+COMPONENTS: Discord Connectivity, Bot Commands & Modules, Data Storage
 Jun 9, 09:33 - INVESTIGATING - Seshy is moving towards a new updating with new features. The bot may restart multiple times. Please allow for disruptions to your server. This will only take 30 minutes.
 Jun 17, 06:30 - RESOLVED - Resolved
 
 Jun 8, 2026
 MAINTENANCE: Preparation for v1.1.1
 SEVERITY: maintenance
-COMPONENTS: Seshy RuntimeEngine
+COMPONENTS: Discord Connectivity
 Jun 8, 09:59 - INVESTIGATING - We are currently planning some field tests to enhance Seshy's use. Seshy users may experience degraded performance or unavailable functions. We apologise if this will disrupt your server operations.
 Jun 8, 12:33 - MONITORING - We have finished maintenance. We are now clearing up and bringing Seshy back to optimal performance.
 Jun 8, 12:40 - RESOLVED - Seshy is back! Enjoy! Thanks for the patience.
@@ -42,7 +42,7 @@ Jun 8, 12:40 - RESOLVED - Seshy is back! Enjoy! Thanks for the patience.
 May 20, 2026
 INCIDENT: Session Management Data Auto-Deleting
 SEVERITY: medium
-COMPONENTS: Seshy Modules
+COMPONENTS: Bot Commands & Modules
 May 20, 22:22 - INVESTIGATING - We have reports of a bug that seems to be configuring the session data automatically. We are aware it currently disables the module, removes modified configuration. We are working to identify this bug.
 May 21, 06:25 - INVESTIGATING - We apologise about the extended delay to fix our issue. Our developers are working with their availability to resolve the bug. We appreciate your patience.
 May 26, 03:05 - RESOLVED - The issue has been rectified and has been monitored. We have implemented a bug fix for the issue. We apologise for any data that has been lost during this stage.
@@ -50,7 +50,7 @@ May 26, 03:05 - RESOLVED - The issue has been rectified and has been monitored. 
 May 4, 2026
 INCIDENT: Seshy Auto-leaving Servers
 SEVERITY: high
-COMPONENTS: Seshy RuntimeEngine
+COMPONENTS: Bot Commands & Modules
 May 4, 08:07 - INVESTIGATING - Over the course of an hour, Seshy has just left more than 100 servers. We unsure of the issue. The problem is critical. Developers have been forced to shutdown the bot till we find the solution to the issue.
 May 4, 08:23 - IDENTIFIED - We have identified the issue and removed the related code. We are now observing the changes.
 May 4, 08:56 - RESOLVED - The incident has been fixed. Unfortunately, many of those servers won't return and we are currently sitting at a loss of 100 servers. We apologise to server owners that have been affected.
@@ -58,7 +58,7 @@ May 4, 08:56 - RESOLVED - The incident has been fixed. Unfortunately, many of th
 May 2, 2026
 INCIDENT: Community  - Applications Down
 SEVERITY: medium
-COMPONENTS: Seshy Modules
+COMPONENTS: Bot Commands & Modules
 May 2, 07:18 - INVESTIGATING - The response channel does not work, buttons for multiple choice, multi select and ratings do not work.
 May 2, 15:33 - IDENTIFIED - We have identified the issue and are currently attempting to resolve it. It seems the matter is critical and we may need to rebuild the module.
 May 3, 12:36 - RESOLVED - The issue has been resolved. We have redone the whole component.
@@ -66,7 +66,7 @@ May 3, 12:36 - RESOLVED - The issue has been resolved. We have redone the whole 
 May 2, 2026
 MAINTENANCE: Updating Seshy v1.0 to v1.1
 SEVERITY: maintenance
-COMPONENTS: Seshy RuntimeEngine, Seshy Modules, Seshy Database, Seshy AI, GitHub Data Store
+COMPONENTS: Discord Connectivity, Bot Commands & Modules, Data Storage
 May 2, 12:40 Upgrading Seshy from v1.0 to v1.1 by migrating from a single-file system to a modular multi-file structure starting with merging legacy data into the new data schema.
 May 2, 03:06 - INVESTIGATING - Seshy v1.0 data does not seem to be compatiable with v1.1. We are developing a script to adopt this new data format.
 May 2, 03:52 - MONITORING - We are currently delaying the update due to a data compatibility issue. We are working to resolve this currently. Seshy will not be impacted yet.
@@ -78,14 +78,14 @@ May 2, 06:21 - RESOLVED - Seshy is now in v1.1! All systems have been moved. Be 
 Apr 30, 2025
 MAINTENANCE: Database Migration
 SEVERITY: maintenance
-COMPONENTS: Seshy Database, Seshy RuntimeEngine
+COMPONENTS: Data Storage, Discord Connectivity
 Apr 30, 02:00 - INVESTIGATING - Scheduled maintenance to improve query performance.
 Apr 30, 04:00 - RESOLVED - Migration completed ahead of schedule.
 
 Apr 28, 2025
 INCIDENT: Partial API Slowdown
 SEVERITY: medium
-COMPONENTS: Seshy AI
+COMPONENTS: ER:LC Integration
 Apr 28, 14:20 - INVESTIGATING - Noticed increased latency in AI inference.
 Apr 28, 15:00 - MONITORING - Scaled clusters, performance returning to normal.
 Apr 28, 15:30 - RESOLVED - Performance fully restored.
@@ -100,7 +100,7 @@ Apr 25, 10:30 - RESOLVED - Cloud provider resolved their networking issue.
 Apr 20, 2025
 INCIDENT: Database Replication Lag
 SEVERITY: low
-COMPONENTS: Seshy Database
+COMPONENTS: Data Storage
 Apr 20, 11:00 - INVESTIGATING - Replication lag detected on secondary.
 Apr 20, 11:45 - MONITORING - Replication catchup initiated.
 Apr 20, 12:30 - RESOLVED - Replication fully synchronized.
