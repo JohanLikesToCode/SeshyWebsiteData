@@ -1,3 +1,23 @@
+ID: thanks-for-100-members
+TITLE: Thanks For 100 Members
+DATE: 2026-09-24
+AUTHOR: .unknownboi
+CATEGORY: general
+CONTENT_START
+BLOCK: paragraph
+Today, we officially hit **100 members in our support server**!
+BLOCK: paragraph
+When we first started building Seshy, the goal was simply to create reliable tools that make managing Discord servers and sessions easier. Seeing 100 of you join our community to support the project, report bugs, suggest ideas, and use the bot in your own servers means a lot to us 💖.
+BLOCK: paragraph
+Every bit of feedback you share helps shape where the bot is heading. Whether you’ve been here since day one or just joined recently, thank you for being part of the journey and helping us build a better tool for everyone.
+BLOCK: paragraph
+We're constantly working on improvements and new features, so stay tuned. If you haven't joined yet, grab an invite over at [seshy.lol](https://seshy.lol) and come say hi!
+BLOCK: image
+https://i.postimg.cc/kgbCGV1F/image-2026-09-24-225049943.png
+CONTENT_END
+
+=====================================
+
 ID: seshy-history-from-v0-to-v2
 TITLE: From Sessions to Seshy v2
 SUBHEADING: What have we come to?
