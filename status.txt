@@ -1,1 +1,5 @@
-No incidents reported.
+Sep 28, 2026
+INCIDENT: ER:LC API Fixes by PRC
+SEVERITY: low
+COMPONENTS: ER:LC Integration
+Sep 28, 01:28 - INVESTIGATING - We are aware about the PRC update. Unfortunately, we have been informed that it may take up to 7 days of restarts and fixes within the API by PRC devs to update data with new street names and a new map. Seshy doesn't rely on any map updates yet but may potentially have issues with the module. We apologise for any inconvenience.
