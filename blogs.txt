@@ -1,3 +1,100 @@
+ID: erlc-new-map-2026
+TITLE: ER:LC Receives Massive Update
+SUBHEADING: The biggest map update they have done ever.
+DATE: 2026-09-27
+AUTHOR: .unknownboi
+CATEGORY: general
+IMAGE: https://postimg.cc/ph7Y905w
+CONTENT_START
+BLOCK: paragraph
+On September 27, 2026, PRC released the **2026 Map Update** for ER:LC. The update is nearly remakes the existing map and nearly doubles its size, bringing major changes in Liberty County and introducing the new Town of Fairview.
+BLOCK: heading
+A Much Larger Liberty County
+BLOCK: paragraph
+The ER:LC map had not significantly expanded ever since their [2022 update](https://devforum.roblox.com/t/emergency-response-liberty-county-6242022-update-guide/1844656). The new update changes that by substantially increasing the playable area and rebuilding large portions of the existing map.
+BLOCK: image
+https://i.postimg.cc/7hNCttBx/img-1790554376.png
+BLOCK: paragraph
+Fairview has now been added to Liberty County, alongside new roads, buildings, properties, waterways and other areas to explore.
+BLOCK: paragraph
+For ERLC communities, this means familiar patrol routes and roleplay locations may look very different after the update.
+BLOCK: heading
+Boats Arrive in Liberty County
+BLOCK: paragraph
+The expanded waterways also introduce boats to ERLC.
+BLOCK: image
+https://i.postimg.cc/bY2f02G8/img-1790555242.png
+BLOCK: paragraph
+Players who own the K-9 Gamepass can now deploy a police dog from compatible law-enforcement vehicles.
+BLOCK: paragraph
+K-9s currently have several commands, including:
+BLOCK: list
+Attack
+Follow Me
+Go To Car
+Search For Player
+Sit
+Lay Down
+Stay
+Delete
+BLOCK: paragraph
+The Search For Player command can be used to locate nearby wanted players, including suspects hiding around buildings or fields.
+BLOCK: image
+https://i.postimg.cc/HkYNNJLJ/img-1790555426.png
+BLOCK: heading
+New Properties
+BLOCK: paragraph
+The update also adds new houses and mansions throughout Liberty County.
+BLOCK: paragraph
+Players with the existing Premium Housing Gamepass can purchase the new mansion properties, while additional lower-income housing has also been added for players looking for more affordable options.
+BLOCK: heading
+New Civilian Vehicles
+BLOCK: paragraph
+The update adds a large selection of civilian vehicles, including:
+BLOCK: list
+BKM Hofmeister Estate 2020
+BKM Hofmeister 2020
+BKM Hofmeister F 2021
+Falcon Advance Standard Cab 2022
+Falcon Advance Royal Ranch 2022
+Chevlon Camion X15 2021
+Ferdinand Rapido S 2022
+Vellfire Puremia 2025
+Brawnson Revver EV SUV 2024
+Brawnson Revver EV Pickup 2024
+Falcon Global 350
+Falcon Advance Beast 2017
+Falcon Advance XET 2022
+BLOCK: paragraph
+Several existing civilian vehicles were also remodeled.
+BLOCK: heading
+Changes for ER:LC Communities
+BLOCK: paragraph
+For roleplay communities, the map update changes more than the scenery.
+BLOCK: paragraph
+Larger patrol areas mean communities may need to reconsider patrol routes, session locations and how they organise departments across the map. The addition of waterways also gives communities another type of scenario to incorporate into sessions.
+BLOCK: paragraph
+Seshy communities can also expect their existing ERLC operations to take place across a significantly larger map.
+BLOCK: paragraph
+As communities explore the new areas, Seshy will continue developing tools designed around the needs of ERLC communities.
+BLOCK: heading
+Additional Changes
+BLOCK: paragraph
+The update also includes a number of smaller changes and bug fixes.
+BLOCK: heading
+The Update and Seshy
+BLOCK: paragraph
+The September 27 update represents a major change to ERLC's world.
+BLOCK: paragraph
+With Fairview, expanded waterways, new properties, boats, K-9s, new vehicles and a substantially larger map, communities now have a significantly different environment for their sessions.
+BLOCK: paragraph
+Seshy will be following the changes as the ERLC community adapts to the new map. We will change to the new namings of streets and change the map for our lve map that will release with our Moderation Panel during v2 release.
+BLOCK: paragraph
+[*More on the dev log can be found here*](https://devforum.roblox.com/t/emergency-response-liberty-county-map-update-2026-update-log/4897775)
+CONTENT_END
+
+=====================================
+
 ID: thanks-for-100-members
 TITLE: Thanks For 100 Members
 DATE: 2026-09-24
