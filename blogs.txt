@@ -69,7 +69,7 @@ ID: seshy-v2-devlog-05
 TITLE: Seshy v2 Dev Log #5: ERLC Mechanics
 DATE: 2026-09-30
 AUTHOR: .unknownboi
-CATEGORY: general
+CATEGORY: devlogs
 CONTENT_START
 BLOCK: paragraph
 Eleven days since our last the previous dev log. In that time, the Moderation Panel has just got a whole lot more real. The maps have got smart and we built **three new sub-systems!**
@@ -242,7 +242,7 @@ ID: thanks-for-100-members
 TITLE: Thanks For 100 Members
 DATE: 2026-09-24
 AUTHOR: .unknownboi
-CATEGORY: general
+CATEGORY: announcements
 CONTENT_START
 BLOCK: paragraph
 Today, we officially hit **100 members in our support server**!
