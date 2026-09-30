@@ -1,5 +1,5 @@
 ID: seshy-v2-devlog-05
-TITLE: Seshy v2 Dev Log #4: ERLC Mechanics
+TITLE: Seshy v2 Dev Log #5: ERLC Mechanics
 DATE: 2026-09-30
 AUTHOR: .unknownboi
 CATEGORY: general
