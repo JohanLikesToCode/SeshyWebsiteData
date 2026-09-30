@@ -52,7 +52,7 @@ https://i.postimg.cc/RFT2sPs0/img-1790765472.png
 BLOCK: heading
 Dispatch
 BLOCK: paragraph
-Rebuilt from a stupid PDCRP server, this is our very own ER:LC 911 system that goes to Discord instantly with **voice callouts**.
+Rebuilt from a previous build, this is our very own ER:LC 911 system that goes to Discord instantly with **voice callouts**.
 BLOCK: subheading
 How Does It Work?
 BLOCK: list
