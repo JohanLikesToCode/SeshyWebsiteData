@@ -1,3 +1,79 @@
+ID: https://seshy.lol/blog/seshy-v2-devlog-05
+TITLE: Seshy v2 Dev Log #4: ERLC Mechanics
+DATE: 2026-09-30
+AUTHOR: .unknownboi
+CATEGORY: general
+CONTENT_START
+BLOCK: paragraph
+Eleven days since our last the previous dev log. In that time, the Moderation Panel has just got a whole lot more real. The maps have got smart and we built **three new sub-systems!**
+BLOCK: heading
+The Live Maps
+BLOCK: paragraph
+The map system is now fully setup to ER:LC's new 2026 world. Positions update around 5-10 seconds due to ERLC cache limitations that allow no service to operate a fully live location map. Same applies for us.
+BLOCK: paragraph
+What was shipped:
+BLOCK: list
+Live Positioning
+Team Information
+Custom Street Labels
+Custom Postal Codes
+BLOCK: image
+https://i.postimg.cc/sxd1mgLF/img-1790765193.png
+BLOCK: heading
+More with the Panel
+BLOCK: paragraph
+We have added more functionality with the moderation panel. The feature already has a lot but we are hungry for better.
+BLOCK: paragraph
+That is why now you can bring people to your VC straight from the moderation panel (eg. the live map). *They need to be ROBLOX-linked with Seshy*.
+BLOCK: paragraph
+You can also apply actions to multiple users at once. Hold Shift and click multiple player cards to queue them. Right click for the wheel and run a command that would apply to all selected players.
+BLOCK: heading
+Tickets
+BLOCK: paragraph
+We shipped Community as a stub in August. It's now a real system, and Tickets is the first sub-module.
+BLOCK: accordion
+What is this?
+A ticket is a private channel that opens when a member clicks a panel button. It lives in its own category, auto-closes after N hours of idle, and posts a transcript when it closes.
+BLOCK: accordion
+How Members Use It
+To resolve your issue, click a panel button from either the button row or the dropdown menu to open a ticket. You will then answer up to 5 pre-written questions to provide context before waiting for a staff member to claim your request. Once claimed, you can chat with support in a private channel. After the issue is resolved, staff will close the ticket, and you can rate your experience to complete the process.
+BLOCK: image
+https://i.postimg.cc/VkrQfW6z/img-1790765425.png
+BLOCK: heading
+Web Forms
+BLOCK: paragraph
+We built Typeform-style forms so you can collect applications, feedback, signups, and surveys. All with the same builder and inbox.
+BLOCK: paragraph
+Check out this sample form here: [https://seshy.lol/forms/1542675676191129701/d2adc0c3](https://seshy.lol/forms/1542675676191129701/d2adc0c3)
+BLOCK: paragraph
+Members can fill it up with complte ease and staff can set it up with the very interactive and easy-to-use form builder.
+BLOCK: image
+https://i.postimg.cc/RFT2sPs0/img-1790765472.png
+BLOCK: heading
+Dispatch
+BLOCK: paragraph
+Rebuilt from a stupid PDCRP server, this is our very own ER:LC 911 system that goes to Discord instantly with **voice callouts**.
+BLOCK: subheading
+How Does It Work?
+BLOCK: list
+1. A player uses the In-game ER:LC phone to make a 911 call. They will have to enter information such as their emergency and their location
+2. The dispatcher AI will pull the information and convert it into a real dispatcher response
+3. The bot posts the call in the Discord. This will come along with a map of where the emergency is located as well as other units within the vicinity.
+4. The bot will join the Police RTO VC and play a dispatcher tone and announce the call and then leave
+BLOCK: image
+https://i.postimg.cc/G2b5yFc6/img-1790765550.png
+BLOCK: heading
+Conclusion
+BLOCK: paragraph
+These 2 weeks have been amazing with the development. We have put in more of the team's ideas into a reality and we are getting even more eager to show you what this bot can do on that release day.
+BLOCK: paragraph
+We are also happy to announce that we will shift to **Phase 2/4** (Internal QA Testing) in just a few more weeks. From here I am sure it will just be smooth sailing. We will run a few tests here and there and we should be good to release it potentially by this year.
+BLOCK: paragraph
+Thanks for sticking around everyone!
+CONTENT_END
+
+=====================================
+
 ID: erlc-new-map-2026
 TITLE: ER:LC Receives Massive Update
 SUBHEADING: The biggest map update they have done ever.
