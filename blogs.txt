@@ -1,3 +1,70 @@
+ID: radar-bot-shutdown-2026
+TITLE: Radar Systems Shutdown After Inactivity
+DATE: 2026-09-30
+AUTHOR: .unknownboi
+CATEGORY: general
+IMAGE: https://i.postimg.cc/FKh5QdfQ/img-1790771936.png
+CONTENT_START
+BLOCK: paragraph
+Just an hour ago, Radar Systems has announced that it will be **shutting down** after a period of declining activity, bringing an end to a project that spent much of 2026 trying to build its place in the Discord security community.
+BLOCK: paragraph
+For Seshy, Radar is familiar.
+BLOCK: paragraph
+We have written about Radar before. We have discussed one of its** security incidents**, compared different approaches to server protection, and watched the project continue developing after that incident.
+BLOCK: paragraph
+Today is different. **Radar is closing its doors.**
+BLOCK: heading
+History
+BLOCK: paragraph
+Radar wasn't originally supposed to be Radar. 
+BLOCK: paragraph
+The project began as Sparkd, an idea for an all-in-one Discord utility bot. The team eventually decided that building a dedicated security bot would make more sense, allowing them to focus their development on a smaller and more defined set of problems.
+BLOCK: paragraph
+That decision led to **Radar**.
+BLOCK: paragraph
+The team spent roughly one to two months developing the bot, building its website and establishing its branding before launching. The first few weeks went well. People joined. Servers started using the bot. The team had a new project to build around. But keeping a project alive is different from launching one.
+BLOCK: heading
+Problems Later On...
+BLOCK: paragraph
+As Radar continued developing, the team began facing problems that would eventually become difficult to recover from.
+BLOCK: paragraph
+Its original security system could not identify every method used to attack Discord servers. As attackers changed their methods, some of the protection Radar had originally been built around became less effective.
+BLOCK: paragraph
+The project also began dealing with reputational problems.
+BLOCK: paragraph
+The team attempted different ways of responding to criticism, controversy and rumours while continuing to update the bot and website.
+BLOCK: paragraph
+According to Radar's own shutdown announcement, those efforts were ultimately not enough to reverse the decline.
+BLOCK: paragraph
+The project had reached a point where rebuilding its reputation and continuing development required more time and activity than the team could consistently provide.
+BLOCK: heading
+The Reality behind The Shutdown
+BLOCK: paragraph
+The shutdown was not caused by one specific incident. Radar's team said the decision was mainly caused by **declining activity** from both members and staff, alongside a **lack of time** available to manage and develop the project.
+BLOCK: paragraph
+The team's real-life circumstances also played a role. According to the announcement, both [Excusty](https://discord.com/users/1389758652457553981) and [stillly_dev](https://discord.com/users/1224512361793327117) had increasingly less time available for Discord and Radar.
+BLOCK: paragraph
+This affected the team's ability to develop new features, maintain the existing products, manage the community and continue marketing Radar.
+BLOCK: paragraph
+After considering the situation, the team decided that **shutting Radar down was the most practical option**.
+BLOCK: heading
+What's Next?
+BLOCK: paragraph
+Seshy will continue developing independently and working on its own systems for Discord and ERLC communities.
+BLOCK: paragraph
+Radar's shutdown does not mean the end of Discord security projects. Other developers and teams will continue building, maintaining and improving their own systems.
+BLOCK: paragraph
+For now, Radar will remain offline while its team moves on from the project.
+BLOCK: paragraph
+If Radar does eventually return after March 2027, the team has not announced what that version would look like or whether it would return under the same name.
+BLOCK: paragraph
+Thank you to everyone who contributed to Radar Systems, supported the project, or used it during its time online. It has inspired Seshy to follow the same footsteps. Thank you once again Radar team!
+BLOCK: image
+https://i.postimg.cc/43wxt16T/img-1790766928.png
+CONTENT_END
+
+=====================================
+
 ID: seshy-v2-devlog-05
 TITLE: Seshy v2 Dev Log #5: ERLC Mechanics
 DATE: 2026-09-30
