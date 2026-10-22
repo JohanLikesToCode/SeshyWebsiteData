@@ -46,26 +46,38 @@
       "id": "deathstrider",
       "name": "Death",
       "handle": "deathstrider114",
-      "roles": ["Developer", "Senior Support", "Support Team"],
+      "roles": [
+        "Support Team",
+        "Quality Assurance"
+      ],
       "status": "Online",
       "joinedYear": "2025",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1262288699606040628/d81def1344c4697478b0d818db0d06f9.webp?size=128",
-      "about": "Developer + Managing Seshy Operations + Marketing Officer @ Seshy",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1262288699606040628/a6636e83afaf50af0400bb4a84d7cd98.webp?size=1024",
+      "about": "Helper @ Seshy",
       "timeline": [
         {
           "date": "2025",
-          "title": "Joined as a Moderator",
-          "desc": "Moderated Seshy's support server."
+          "title": "Joined as a QA Tester",
+          "desc": "Helps build Seshy v1.1 through through QA Testing."
         },
         {
           "date": "2026",
-          "title": "Promoted as a Developer",
-          "desc": "Helped build Seshy's ARES System and design the support server."
+          "title": "Moved in as a Helper",
+          "desc": "Moderated Seshy's support server."
         }
       ],
-      "skills": ["Banner Design"],
-      "tags": ["Active ER:LC Roleplayer"],
-      "stats": [],
+      "skills": [
+        "Banner Design"
+      ],
+      "tags": [
+        "Active ER:LC Roleplayer"
+      ],
+      "stats": [
+        {
+          "val": "2025",
+          "label": "Joined"
+        }
+      ],
       "dataFields": []
     },
     {
@@ -90,25 +102,41 @@
       "dataFields": []
     },
     {
-      "id": "psalm",
-      "name": "Psalm",
-      "handle": "aurevyx.yt",
-      "roles": ["Support Team", "Quality Assurance"],
+      "id": "cloudy_9075",
+      "name": "Cloudy",
+      "handle": "cloudy_9075",
+      "roles": [
+        "Developer"
+      ],
       "status": "Online",
       "joinedYear": "2026",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1401015677002711100/e6bc568ee66a76148dc8742ae4b76dc0.webp?size=128",
-      "about": "Management of Seshy bot.",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1453647245777047552/995716bb9179487440bf946b0798c174.webp?size=1024",
+      "about": "Dev @ Seshy",
       "timeline": [
         {
           "date": "2026",
           "title": "Joined as a QA Tester",
           "desc": "Helped identify bugs and errors to keep Seshy free of any instability."
+        },
+        {
+          "date": "2026",
+          "title": "Built on Sylo",
+          "desc": "Seshy's Support Server discord bot."
+        },
+        {
+          "date": "2026",
+          "title": "Built webpages",
+          "desc": "Designed and crafted to fit Seshy's theme."
         }
       ],
       "skills": [],
-      "tags": ["Active ER:LC Roleplayer", "ER:LC Server Owner"],
+      "tags": [
+        "Active ER:LC Roleplayer",
+        "ER:LC Server Owner"
+      ],
       "stats": [],
       "dataFields": []
     }
+    
   ]
 }
