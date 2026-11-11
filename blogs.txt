@@ -595,8 +595,8 @@ BLOCK: paragraph
 Seshy has been developed with a similar goal: **give ERLC communities a single place to manage the systems they need to operate their server.**
 BLOCK: paragraph
 Sessions, moderation, staff management, community tools, logging, applications, giveaways, reaction roles, ERLC API integration, and dashboard-based configuration are all areas Seshy is working toward supporting.
-BLOCK: code
-But Seshy isn't ERM.
+BLOCK: paragraph
+**But Seshy isn't ERM.**
 BLOCK: callout
 info
 
