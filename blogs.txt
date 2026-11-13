@@ -1,3 +1,183 @@
+ID: seshy-v2-devlog-06
+TITLE: Seshy v2 Dev Log #6: The Big Catch-Up
+DATE: 2026-11-14
+AUTHOR: .unknownboi
+CATEGORY: devlogs
+IMAGE: https://i.postimg.cc/CLY4v3mn/img-1794613223.png
+IMAGE_ALT: MacbookAndSeshy
+FORMAT: 2
+CONTENT_START
+It has been a month and two weeks since Dev Log #5, and there is a lot to cover. This one is long, so probably get somewhere quiet cause this might be a novel book long. **We have shipped a huge amount of new features since our previous dev log.**
+
+## First, An Apology
+
+The gap between this dev log and the last one was far too long, and that is on us. We left it unannounced, and that was not fair to you. We want to be transparent to why this happened. Simply it was because of our availability during the end of the year. A big part of the dev team was away for the holiday period, and on top of that we had exams and some personal issues to deal with.
+
+I want to be completely honest with everyone: **Seshy is not a dead project.** We have worked on it close to every single day, even when we were quiet. The updates just were not making it out to you. That changes now, and you will be hearing from us regularly again.
+
+## Where We Are At
+
+All of the main systems are now built. What we are doing at the moment is optimizing, polishing, and adding the extra features we may have missed along the way. We are also keeping a close eye on what other bots in the space are releasing, so that what we ship is better, not just equal.
+
+We are still on track for **Phase 2/4 (Internal QA Testing)**, and we are aiming to release **before Christmas, possibly in December** if everything lines up. We will tell you straight if that changes.
+
+## Seshy App
+
+![Seshy App](https://i.postimg.cc/Fz60p6RT/img-1794611591.png){align=center}
+
+Seshy now has its own **desktop app*. It sits alongside your game and gives staff quick access to their tools without tabbing out.
+
+- A Home screen with your servers and notifications
+- A first-time tour that walks new users through everything
+- Automatic updates, plus a clean download page on the website
+- Voice rooms for staff, with a brand new floating-bar voice screen
+- Lower memory and battery usage
+
+## The Staff Panel Grew Up
+
+![ModerationPanelSidebar](https://i.postimg.cc/NMMynxZW/img-1794611754.png){width=33% align=center}
+
+The Moderation Panel got a long list of upgrades. A few of the big ones:
+
+- Watchdog tab: keeps an eye on the server and surfaces problems as they happen
+- Manager tab: an HR-style view with a staff roster, individual staff profiles and private notes
+- Staff points: guidelines, a stage ladder, suspensions, appeals and quota penalties
+- Leave of Absence: request, withdraw and review your leave from the panel
+- Staff calls and requests posted as clean cards
+- Priorities with groups, timers, extensions and end-early
+- Smarter access: permissions are stricter, locked options are greyed out instead of vanishing, and the panel closes safely if your access changes
+- Case log search and editing, plus a Melonly-style record for each player
+
+The live map also got a big smoothness upgrade. Dots now **glide along a steady path** through every reported position instead of jumping from point to point.
+
+## Home Hub and Public Profiles
+
+![Death's Public Profile](https://i.postimg.cc/DzCQmmTQ/img-1794611828.png){align=center}
+
+Home is now the central hub for everything Seshy. It greets you, shows your servers, and gathers everything that needs your attention in one place.
+
+Your profile is now a **public page you can customize**. Pick your own link (seshy.lol/@yourname), choose from more than 80 customization options, show your Discord decorations and server tags, add real brand icons for your links, and even add a music player with an equalizer.
+
+## The Setup Wizard
+
+![Seshy's Setup Wizard](https://i.postimg.cc/4xPVFnmT/img-1794611926.png){align=center}
+
+Setting up a new server used to mean a lot of clicking around. We rebuilt the setup into a guided wizard with a better interface that was more modern and actually something you would want to use. Pick the modules you want, answer a few questions, and Seshy is all green!
+
+## Welcome Journey
+
+Welcome is now more than a join message. The new **Welcome Journey** is an animated onboarding page that new members step through when they join.
+
+- More than 60 premium templates to choose from (roleplay, gaming, community, Apple style, liquid glass and more)
+- An in-dashboard editor with a big template library and live desktop and phone previews
+- Entry through DM or verification
+- Goodbye messages too
+
+## Tickets, Rebuilt
+
+![TicketsExample](https://i.postimg.cc/NfYyqBhR/img-1794612105.png){width=75% align=center}
+
+Tickets got a full redesign and several new systems on top.
+
+- A tabbed setup page with editable messages for every stage of a ticket
+- Choose how tickets close, and what happens afterwards
+- **Smart Replies:** automatic answers to common questions so staff do not repeat themselves
+- **AI Assistant:** an optional helper that can answer in tickets, with a Test Mode so you can try it first
+- **Transcripts:** every ticket can be viewed on a Discord-style page at seshy.lol/transcripts
+- A new closing card showing who opened, claimed and closed it, plus how long it took
+
+## Meet Sylo
+
+![SyloInteraction](https://i.postimg.cc/ZKTqsH3W/img-1794612242.png){width=50% align=center}
+
+**Sylo** is Seshy's built-in assistant, found behind the star button in the dashboard. Ask it how something works, or ask it to change a setting for you.
+
+- It can create and edit things like ticket panels, applications and web forms
+- Every change is shown in plain, colour-coded cards so you can see exactly what will happen
+- It always asks before making a change that matters, and has safeguards around what it is allowed to touch
+- Choose Ask mode (it only explains) or Auto mode (it makes the changes)
+
+![Sylo](https://seshy.lol/imgs/sylo.webp){width=25% align=center}
+
+## Music
+
+Seshy can now play music in your voice channels, and it has its own page at **seshy.lol/music**.
+
+- A live player with album art and synced lyrics
+- Browse artists, albums and playlists
+- Queue, playlists and favourites
+- Paste links from the music services you already use
+- Multiple sources, with DJ mode and sound effects as options
+
+Music and text to speech share one voice connection, so they never talk over each other.
+
+## Custom Commands
+
+![CustomCommandsExample](https://i.postimg.cc/nrTnt87G/img-1794612377.png){align=center}
+
+This is the one we are most excited about. **Build your own commands without writing any code.**
+
+- Slash commands that are completely your own, with options and pop-up forms
+-
+- A flow view that shows your command as connected boxes
+- Test runs, run history and versions, so you can try safely and roll back
+- Triggers from Discord and from inside ER:LC
+- Sylo can build and rewrite commands for you
+
+## Community Extras
+
+Community got another wave of features.
+
+- Starboard
+- Button roles, automatic roles and voice roles
+- Text to speech in voice channels
+- Boost messages and server tag roles
+- Fun and Utilities sub-modules
+- A grouped Community menu that is easier to navigate
+
+## Forms and Dispatch
+
+The **form builder** got custom controls, grouped settings, results sent to a channel or DM, and a clickable preview. Forms can now be edited directly from their own address.
+
+**Dispatch** now lets you pick your dispatcher's voice with audio samples, give each department its own voice, and choose exactly how player calls and automated calls are handled.
+
+![Dispatcher](https://i.postimg.cc/Kz2bkcDp/img-1794612452.png){width=50% align=center}
+
+## Ares Security
+
+Ares gained the **Raid Shield**, and the website now shows what Ares does with a full raid demonstration. Ares is its own always-on system, built so that it keeps protecting your server even while the rest of Seshy is being updated.
+
+## The Website
+
+![SeshyWebsite](https://i.postimg.cc/ZqrtStz0/img-1794612543.png){align=center}
+
+The Seshy website was rebuilt from the ground up.
+
+- A new Home page with a live map, a module showcase and smooth page transitions
+- New Blog and Team pages
+- A new status page with proper incident history and uptime
+- A new 404 page where every unit on a dispatch map is a page, and a custom offline page
+- A new sign-in flow with a centred glowing pop-up
+- A redesigned dashboard with calmer, cleaner settings
+- A better phone layout across the whole site
+
+Even this blog got an upgrade, with a new document-style editor behind the scenes.
+
+## Everything Else
+
+There were also countless bug fixes, speed improvements and stability changes across the bot, the dashboard and the panel. We will not list them all, but you will feel the difference.
+
+## Conclusion
+
+Thank you to everyone who has stuck around and been patient with us. We know the wait was long, and we plan to make it worth it.
+
+From here we will keep optimizing, finish the last few features, and keep an eye on what the rest of the space is doing so we can beat it. We are aiming to release **before Christmas**, and we will keep you posted every step of the way.
+
+Thanks for sticking around everyone!
+CONTENT_END
+
+=====================================
+
 ID: radar-bot-shutdown-2026
 TITLE: Radar Systems Shutdown After Inactivity
 DATE: 2026-09-30
