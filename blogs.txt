@@ -1,3 +1,32 @@
+ID: 2026-christmas-cheer
+TITLE: Christmas Cheer
+DATE: 2026-11-19
+AUTHOR: .unknownboi
+CATEGORY: general
+IMAGE: https://i.postimg.cc/hGHSYGXR/img-1795080676.png
+FORMAT: 2
+CONTENT_START
+As the holiday season approaches, we wanted to take a moment to bring a little Christmas spirit to the Seshy community. With December just around the corner, we are wanting to make a few changes within our discord server.
+
+Our server icon has received a beautiful Christmas makeover that will stay till the end of December. It's a small change but we wanted to make sure that things feel a little more cosy as we head into the big break
+
+![Picture Of Our Discord Server Card](https://i.postimg.cc/jqD5vGCC/img-1795079857.png){width=33% align=center}
+
+We will surely be bringing out some giveaways and staying on top of our engagement ever since our little break.
+
+## Development
+
+It is also an exciting time for Seshy behind the scenes. Development on v2 has flourished. We are working hard to bring your a significantly improved experience from what v1.1 is. We bring in most of our left over features from our tasklist which we are very excited to release in our next dev log coming out during the weekend.
+
+We know that many of you have been waiting for this update and we are again very happy for everyone that has stuck around, supported us and continued to be part of the community. Whether you have been here since the early days or joined us more recently, your support means the world to us.
+
+On behalf of the Seshy team, we hope that everyone gets some time to relax, spend time with friends and family and enjoy the holidays. We will continue working on Seshy for a few more weeks and bring you a release date very soon.
+
+For now, enjoy the Christmas cheer!
+CONTENT_END
+
+=====================================
+
 ID: 2026-11-14/seshy-v2-devlog-06
 LEGACY_ID: seshy-v2-devlog-06
 TITLE: Seshy v2 Dev Log #6: The Big Catch-Up
