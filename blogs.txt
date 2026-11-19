@@ -1,4 +1,5 @@
-ID: seshy-v2-devlog-06
+ID: 2026-11-14/seshy-v2-devlog-06
+LEGACY_ID: seshy-v2-devlog-06
 TITLE: Seshy v2 Dev Log #6: The Big Catch-Up
 DATE: 2026-11-14
 AUTHOR: .unknownboi
@@ -178,7 +179,8 @@ CONTENT_END
 
 =====================================
 
-ID: radar-bot-shutdown-2026
+ID: 2026-09-30/radar-bot-shutdown-2026
+LEGACY_ID: radar-bot-shutdown-2026
 TITLE: Radar Systems Shutdown After Inactivity
 DATE: 2026-09-30
 AUTHOR: .unknownboi
@@ -245,7 +247,8 @@ CONTENT_END
 
 =====================================
 
-ID: seshy-v2-devlog-05
+ID: 2026-09-30/seshy-v2-devlog-05
+LEGACY_ID: seshy-v2-devlog-05
 TITLE: Seshy v2 Dev Log #5: ERLC Mechanics
 DATE: 2026-09-30
 AUTHOR: .unknownboi
@@ -321,7 +324,8 @@ CONTENT_END
 
 =====================================
 
-ID: erlc-new-map-2026
+ID: 2026-09-27/erlc-new-map-2026
+LEGACY_ID: erlc-new-map-2026
 TITLE: ER:LC Receives Massive Update
 SUBHEADING: The biggest map update they have done ever.
 DATE: 2026-09-27
@@ -418,7 +422,8 @@ CONTENT_END
 
 =====================================
 
-ID: thanks-for-100-members
+ID: 2026-09-24/thanks-for-100-members
+LEGACY_ID: thanks-for-100-members
 TITLE: Thanks For 100 Members
 DATE: 2026-09-24
 AUTHOR: .unknownboi
@@ -438,7 +443,8 @@ CONTENT_END
 
 =====================================
 
-ID: seshy-history-from-v0-to-v2
+ID: 2026-09-22/seshy-history-from-v0-to-v2
+LEGACY_ID: seshy-history-from-v0-to-v2
 TITLE: From Sessions to Seshy v2
 SUBHEADING: What have we come to?
 DATE: 2026-09-22
@@ -552,7 +558,8 @@ CONTENT_END
 
 =====================================
 
-ID: developing-seshy-docs
+ID: 2026-09-20/developing-seshy-docs
+LEGACY_ID: developing-seshy-docs
 TITLE: Developing Seshy Documentation
 SUBHEADING: We're building a dedicated documentation site to make Seshy easier to understand, configure, and use.
 DATE: 2026-09-20
@@ -634,7 +641,8 @@ CONTENT_END
 
 =====================================
 
-ID: seshy-v2-devlog-04
+ID: 2026-09-19/seshy-v2-devlog-04
+LEGACY_ID: seshy-v2-devlog-04
 TITLE: Seshy v2 Dev Log #4: Command Center
 SUBHEADING: The Moderation Desk goes live, Ares grows into a full security suite, and ER:LC gets serious.
 DATE: 2026-09-19
@@ -721,7 +729,8 @@ CONTENT_END
 
 =====================================
 
-ID: shutdown-of-erm-bot
+ID: 2026-09-15/shutdown-of-erm-bot
+LEGACY_ID: shutdown-of-erm-bot
 TITLE: Remembering ERM
 DATE: 2026-09-15
 AUTHOR: Nitronik2434
@@ -799,7 +808,8 @@ CONTENT_END
 
 =====================================
 
-ID: seshy-v2-devlog-03
+ID: 2026-09-11/seshy-v2-devlog-03
+LEGACY_ID: seshy-v2-devlog-03
 TITLE: Seshy v2 Dev Log #3: A New Face
 SUBHEADING: Progress across the website, modules, testing, and the road toward v2's next stage.
 DATE: 2026-09-11
@@ -876,7 +886,8 @@ CONTENT_END
 
 =====================================
 
-ID: seshy-v2-devlog-02
+ID: 2026-09-07/seshy-v2-devlog-02
+LEGACY_ID: seshy-v2-devlog-02
 TITLE: Seshy v2 Dev Log #2: The Team And The ER:LC Integration
 SUBHEADING: Progress since the announcement, from a growing team to new systems, integrations and a redesigned Seshy experience.
 DATE: 2026-09-07
@@ -1018,7 +1029,8 @@ CONTENT_END
 
 =====================================
 
-ID: 200-bumps-on-guildory
+ID: 2026-09-01/200-bumps-on-guildory
+LEGACY_ID: 200-bumps-on-guildory
 TITLE: 200 Bumps in just 3 days!
 DATE: 2026-09-01
 AUTHOR: .unknownboi
@@ -1060,7 +1072,8 @@ CONTENT_END
 
 =====================================
 
-ID: radar-didnt-protect-my-server
+ID: 2026-08-28/radar-didnt-protect-my-server
+LEGACY_ID: radar-didnt-protect-my-server
 TITLE: "Radar Raided My Server"
 SUBHEADING: Radar Systems Failed To Protect Servers
 DATE: 2026-08-28
@@ -1131,7 +1144,8 @@ CONTENT_END
 
 =====================================
 
-ID: seshy-v2-devlog-01
+ID: 2026-08-25/seshy-v2-devlog-01
+LEGACY_ID: seshy-v2-devlog-01
 TITLE: Seshy v2 Dev Log #1: The Support Server, Sessions, and the Moderation Panel
 SUBHEADING: Progress since the announcement — from a growing community to a finished sessions system.
 DATE: 2026-08-25
@@ -1174,7 +1188,8 @@ CONTENT_END
 
 =====================================
 
-ID: welcome-to-seshy
+ID: 2024-01-15/welcome-to-seshy
+LEGACY_ID: welcome-to-seshy
 TITLE: Welcome to Seshy — The Future of ERLC Moderation
 SUBHEADING: Why we built the most advanced moderation bot for Emergency Response: Liberty County
 DATE: 2024-01-15
@@ -1225,7 +1240,8 @@ CONTENT_END
 
 =====================================
 
-ID: ares-security-deep-dive
+ID: 2024-01-20/ares-security-deep-dive
+LEGACY_ID: ares-security-deep-dive
 TITLE: Inside Ares Security: Protecting Your Discord Server from Nukes
 SUBHEADING: A technical deep dive into our 21-layer protection system
 DATE: 2024-01-20
@@ -1270,7 +1286,8 @@ CONTENT_END
 
 =====================================
 
-ID: seshy-testing-v1-1-migration
+ID: 2026-05-01/seshy-testing-v1-1-migration
+LEGACY_ID: seshy-testing-v1-1-migration
 TITLE: Seshy Testing Phase Complete for V1.1
 SUBHEADING: A new chapter begins - releasing under 24 hours.
 DATE: 2026-05-01
@@ -1355,7 +1372,8 @@ CONTENT_END
 
 =====================================
 
-ID: how-seshy-v1.1.0-is-improving-erlc-server-management
+ID: 2026-05-02/how-seshy-v1.1.0-is-improving-erlc-server-management
+LEGACY_ID: how-seshy-v1.1.0-is-improving-erlc-server-management
 TITLE: How Seshy V1.1.0 Is Improving ERLC Server Management
 SUBHEADING: The future of ERLC Server Management.
 DATE: 2026-05-02
