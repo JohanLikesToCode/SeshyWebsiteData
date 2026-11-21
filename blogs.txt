@@ -1,3 +1,96 @@
+ID: seshy-v2-devlog-07
+TITLE: Seshy v2 Dev Log #7: Coins, Cards and a Calmer Look
+SUBHEADING: A global economy, a casino, a market, games inside Discord, and a site that finally feels finished.
+DESCRIPTION: Seshy v2 Dev Log #7 covers the new global wallet, the Nocturne casino with multiplayer tables, the Parallax market, Discord Activities, moderation upgrades and a full design pass.
+DATE: 2026-11-22
+AUTHOR: Claude
+CATEGORY: devlogs
+IMAGE: https://seshy.lol/imgs/devlog-7/casino-lobby.webp
+IMAGE_ALT: The Nocturne casino lobby
+FORMAT: 2
+CONTENT_START
+This one is a lot more fun than the last. Most of the big systems were already built, so over the past week we spent our time on the things that make a server feel alive: money, games, and a place for every community to call home. We also gave the whole site a good clean-up along the way.
+
+## One Wallet, Everywhere
+
+![The wallet page in Home](https://seshy.lol/imgs/devlog-7/wallet.webp){align=center}
+
+Everyone now has a single Seshy wallet that follows them into every server. It lives in your Home page, and it is where you earn, spend and save.
+
+- **Jobs:** browse an Indeed-style jobs board, apply, and work shifts. Do well and your work rating climbs
+- **Ways to earn:** work, street games, hustles and a weekly payday. Crime and stealing are there too, if you like living dangerously
+- **Bank and sending money:** keep savings safe, or send coins to a friend
+- **Shops:** every server can run its own shop and sell things for coins
+
+The numbers are the same for everybody, so no server can print money or change anyone's balance. What server owners do control is which commands are allowed in their community, and that lives in a much simpler Economy page in the dashboard.
+
+## The Nocturne Casino
+
+![Multiplayer tables in the casino](https://seshy.lol/imgs/devlog-7/casino-multiplayer.webp){align=center}
+
+The casino has its own page at **seshy.lol/casino** with a separate balance, so a bad night never touches your wallet. Every single result is dealt by the bot, never by your browser.
+
+- Blackjack, roulette, mines, plinko, dice, slots, keno, limbo and hi-lo
+- **Multiplayer tables** for poker, blackjack and roulette, with people from any server
+- Make your own table, share a code with friends, or jump into a house table
+- NPC bots keep house tables lively, so there is always someone to play with
+
+## The Parallax Market
+
+![The Parallax market](https://seshy.lol/imgs/devlog-7/market.webp){align=center}
+
+If gambling is not your thing, try investing instead. **Parallax** is a pretend market at **seshy.lol/market** where you can trade made-up stocks, crypto, commodities and more using your coins.
+
+- Market, limit and stop orders
+- Recurring buys, daily, weekly or monthly
+- A portfolio, a watchlist and an order history
+- An advanced mode for people who want the full workspace
+
+Prices are worked out by the bot and nowhere else, so everyone sees the same market at the same moment.
+
+## A Home for Every Server
+
+![The new Home page](https://seshy.lol/imgs/devlog-7/home.webp){width=75% align=center}
+
+Every server now has its own hub inside Home. Owners can add a cover, pin announcements, write an about section and share links, and members get their own corner too. You can even link a channel so its messages appear as announcements. Leveling and Economy both got their own pages in the dashboard to go with it.
+
+## Games Inside Discord
+
+Seshy can now run as a **Discord Activity**, which means music and games open right inside your voice channel.
+
+- More than a dozen games to play together, including Connect Four, Wordle, Mafia, Reversi, Hangman and quick quizzes
+- The same music player as the website, with synced lyrics and your library
+- Import a playlist from Spotify, Apple Music, Deezer or YouTube with just a link
+
+## Moderation and Staff
+
+![AutoMod punishments](https://seshy.lol/imgs/devlog-7/automod.webp){align=center}
+
+Warnings and AutoMod now share one punishment editor. Pick a preset or build your own ladder, and decide what happens at each step. AutoMod filters can also react in their own way, and scam links can be punished instantly.
+
+Staff got plenty of love too:
+
+- A rebuilt Manager tab with a proper overview, a shifts table and shift records
+- Watchdog cases, a redesigned My Shift, and custom infraction types with editable messages
+- Click any staff member anywhere in the panel to open their profile
+- Ticket hold, so a ticket can be paused and picked up again later
+- One-click Verified and Unverified roles in Verification
+
+## A Calmer Look
+
+![The Seshy website](https://seshy.lol/imgs/devlog-7/website.webp){align=center}
+
+We went through the website, Home and the dashboard with a fine-toothed comb. Headings are plainer, labels read like sentences, settings are quieter, and the module switches got a cleaner design. Phones feel better everywhere, and the privacy policy is now written in plain language you can actually read.
+
+## What Is Next
+
+Development on v2 is moving fast and the end is in sight. We will share a release date as soon as we are sure of it, and we will keep the dev logs coming until then.
+
+Thank you for sticking with us. See you in the next one!
+CONTENT_END
+
+=====================================
+
 ID: 2026-christmas-cheer
 TITLE: Christmas Cheer
 DATE: 2026-11-19
