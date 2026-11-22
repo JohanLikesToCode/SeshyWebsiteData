@@ -1,3 +1,47 @@
+ID: seshy-v2-transition-notice
+TITLE: QA Tester Notice: Early Transition Notice
+SUBHEADING: Seshy V2 is nearly ready. Here is how the move to the official bot will work.
+DESCRIPTION: Seshy V2 is approaching release. Learn when the testing bot will be retired and how to prepare your server for the official bot.
+DATE: 2026-11-23
+AUTHOR: .unknownboi
+CATEGORY: announcements
+IMAGE: https://i.postimg.cc/Hkj92zM7/img-1795390179.png
+IMAGE_ALT: Seshy V2 transition notice
+FORMAT: 2
+CONTENT_START
+Seshy V2 has been in development for a long time, and we are now approaching the final stages. We expect it to be finished around **late December**, so it is time to start preparing for the move away from the testing bot.
+
+## What is changing
+
+:::callout info Heads-up, no action needed yet
+This post is an early notice so server owners are not caught off guard. We will share the final instructions and a confirmed transition date closer to release.
+:::
+
+- The **testing bot will be discontinued** shortly after the official release date is announced.
+- We **intend to migrate your server data** across, so you should not need to start from scratch.
+- We will post further announcements, instructions and the confirmed date as release gets closer.
+
+## How to prepare
+
+If your server is currently using the testing bot, you can get ready now:
+
+1. Invite the [official Seshy bot](https://discord.com/api/oauth2/authorize?client_id=1077877101983707168&permissions=8&scope=bot) to your server ahead of time
+2. Note which staff members and modules you rely on, so you can check them after the move
+3. Watch the announcements channel in the [Seshy support server](https://discord.gg/y5MTA5Qe2r) for the release date
+
+:::callout tip Why invite early?
+Having the official bot in your server before the switch lets you look around the dashboard and get comfortable with it. Nothing has to be configured until you are ready.
+:::
+
+## Thank you
+
+Thank you to everyone who has been using the testing bot, reporting bugs and helping us test experimental features. Your feedback has played a major part in shaping Seshy V2.
+
+We know a transition like this matters to your community, and we are working to make it as smooth as we can. ❤️
+CONTENT_END
+
+=====================================
+
 ID: seshy-v2-devlog-07
 TITLE: Seshy v2 Dev Log #7: Coins, Cards and a Calmer Look
 SUBHEADING: A global economy, a casino, a market, games inside Discord, and a site that finally feels finished.
