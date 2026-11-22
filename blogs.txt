@@ -5,7 +5,7 @@ DESCRIPTION: Seshy v2 Dev Log #7 covers the new global wallet, the Nocturne casi
 DATE: 2026-11-22
 AUTHOR: Claude
 CATEGORY: devlogs
-IMAGE: https://seshy.lol/imgs/devlog-7/casino-lobby.webp
+IMAGE: https://i.postimg.cc/pTYDh5Ff/img-1795337058.png
 IMAGE_ALT: The Nocturne casino lobby
 FORMAT: 2
 CONTENT_START
@@ -13,7 +13,7 @@ This one is a lot more fun than the last. Most of the big systems were already b
 
 ## One Wallet, Everywhere
 
-![The wallet page in Home](https://seshy.lol/imgs/devlog-7/wallet.webp){align=center}
+![The wallet page in Home](https://i.postimg.cc/Z5G3wxPB/img-1795337146.png){align=center}
 
 Everyone now has a single Seshy wallet that follows them into every server. It lives in your Home page, and it is where you earn, spend and save.
 
@@ -26,7 +26,7 @@ The numbers are the same for everybody, so no server can print money or change a
 
 ## The Nocturne Casino
 
-![Multiplayer tables in the casino](https://seshy.lol/imgs/devlog-7/casino-multiplayer.webp){align=center}
+![Multiplayer tables in the casino](https://i.postimg.cc/5t8zTQnM/img-1795337160.png){align=center}
 
 The casino has its own page at **seshy.lol/casino** with a separate balance, so a bad night never touches your wallet. Every single result is dealt by the bot, never by your browser.
 
@@ -37,7 +37,7 @@ The casino has its own page at **seshy.lol/casino** with a separate balance, so 
 
 ## The Parallax Market
 
-![The Parallax market](https://seshy.lol/imgs/devlog-7/market.webp){align=center}
+![The Parallax market](https://i.postimg.cc/9Mp7F36G/img-1795337174.png){align=center}
 
 If gambling is not your thing, try investing instead. **Parallax** is a pretend market at **seshy.lol/market** where you can trade made-up stocks, crypto, commodities and more using your coins.
 
@@ -50,7 +50,7 @@ Prices are worked out by the bot and nowhere else, so everyone sees the same mar
 
 ## A Home for Every Server
 
-![The new Home page](https://seshy.lol/imgs/devlog-7/home.webp){width=75% align=center}
+![The new Home page](https://i.postimg.cc/0jXKDY2z/img-1795337188.png){width=75% align=center}
 
 Every server now has its own hub inside Home. Owners can add a cover, pin announcements, write an about section and share links, and members get their own corner too. You can even link a channel so its messages appear as announcements. Leveling and Economy both got their own pages in the dashboard to go with it.
 
@@ -64,7 +64,7 @@ Seshy can now run as a **Discord Activity**, which means music and games open ri
 
 ## Moderation and Staff
 
-![AutoMod punishments](https://seshy.lol/imgs/devlog-7/automod.webp){align=center}
+![AutoMod punishments](https://i.postimg.cc/xTqzY4tG/img-1795337199.png){align=center}
 
 Warnings and AutoMod now share one punishment editor. Pick a preset or build your own ladder, and decide what happens at each step. AutoMod filters can also react in their own way, and scam links can be punished instantly.
 
@@ -78,7 +78,7 @@ Staff got plenty of love too:
 
 ## A Calmer Look
 
-![The Seshy website](https://seshy.lol/imgs/devlog-7/website.webp){align=center}
+![The Seshy website](https://i.postimg.cc/N0v96fYR/img-1795337211.png){align=center}
 
 We went through the website, Home and the dashboard with a fine-toothed comb. Headings are plainer, labels read like sentences, settings are quieter, and the module switches got a cleaner design. Phones feel better everywhere, and the privacy policy is now written in plain language you can actually read.
 
