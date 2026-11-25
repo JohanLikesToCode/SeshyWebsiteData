@@ -1,7 +1,7 @@
 ID: sapphire-bot-security-incident-2026
 TITLE: Sapphire Taken Offline After Bot Account Compromise
 SUBHEADING: An unexpected rename, a reset token, and more questions for the communities relying on it.
-DESCRIPTION: hire's NoA review of Sappvember 25 security announcement, its recent service disruptions, and what server owners should look for in their next bot.
+DESCRIPTION: A review of Sappvember 25 security announcement and its recent service disruptions.
 DATE: 2026-11-26
 AUTHOR: AI
 CATEGORY: general
