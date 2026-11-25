@@ -1,3 +1,100 @@
+ID: uplink-shutdown-2026
+TITLE: Uplink Is Shutting Down
+SUBHEADING: A passion project that set out to make ER:LC moderation simple has closed its doors.
+DESCRIPTION: Uplink, the free ER:LC moderation bot built around one Roblox sign-in, is shutting down. Here is what it was, what happens next, and what its data deletion date means for you.
+DATE: 2026-11-26
+AUTHOR: Claude
+CATEGORY: general
+IMAGE: https://i.postimg.cc/Qx0Kp78T/Screenshot-2026-11-26-070722.png
+IMAGE_ALT: The Uplink logo, three rising bars and a dot
+FORMAT: 2
+CONTENT_START
+Today, the team behind **Uplink** announced that they are shutting down the project. The service closed starting the day of the announcement, and all user, server and website data is scheduled to be deleted on **21 December 2026**.
+
+We did not work with Uplink, and we are not writing this to make a point. We are writing it because Uplink was a real piece of the ER:LC community, built by real people, and it deserves more than a quiet disappearance.
+
+:::callout info The short version
+- Uplink is **shutting down**, effective the day of the announcement
+- **All data will be deleted on 21 December 2026**: user, server and website
+- The team is **not selling any user data**, and asks that nobody asks
+- **Uplink CAD** subscribers will be contacted directly about their subscriptions
+- The Discord server and some of the project's assets are for sale
+:::
+
+## What Uplink Was
+
+![The Uplink logo](https://i.postimg.cc/Qx0Kp78T/Screenshot-2026-11-26-070722.png){width=33% align=center}
+
+Uplink was an all-in-one Discord bot for communities playing **Emergency Response: Liberty County**. Its pitch was right in the name of the problem it solved: ER:LC moderation is usually a pile of separate tools, and Uplink wanted it to be one clean place instead.
+
+- **One Roblox sign-in:** players linked their Roblox account once, rather than proving who they were again in every server
+- **A dashboard** with logs, cases and shifts
+- **Free to use:** no paid plan, no cap on how much staff you could have, and no ads, all while it was still in beta
+- **Uplink CAD:** a computer-aided dispatch product with its own subscription
+- **Uplink's own tools,** including UplinkOS, Delazer and a Radio and MDT system
+
+![Uplink's website in its final form](https://i.postimg.cc/rp6VWyrR/Screenshot-2026-11-26-070909.png){align=center}
+
+Plenty of bots promise a lot. A free tool with no staff limit and no advertising, built by a small team still in beta, is the kind of thing that is much harder to pull off than it sounds.
+
+## A Passion Project
+
+![Uplink's website when it first launched](https://i.postimg.cc/mrxLMZHQ/Screenshot-2026-11-26-071020.png){align=center}
+
+According to the shutdown notice, Uplink started as a passion project back in **July**. The goal was stated plainly: *make ER:LC moderation simple.*
+
+That is a good goal, and it is the same one a lot of us in this space share. The notice also credits the people around it: the developers, support staff, beta testers and contributors who helped it become what it was, and the two people who kept the server and the project running while its creator was away.
+
+## Why It Is Closing
+
+The reason is the least dramatic one, and for that reason the most familiar.
+
+In the notice, the founder, Noah, explains that his job and school left him unable to keep up with Uplink's needs or its growing community. Combined with a lack of interest in the service, the team decided to wind operations down.
+
+> Thank you all again for making Uplink what it was.
+
+There was no scandal and no security incident behind this one. It is the quiet kind of ending, where the people running a project simply run out of hours.
+
+## What Happens Next
+
+![The shutdown notice posted to the Uplink community](https://i.postimg.cc/sXN0QxBy/Screenshot-2026-11-26-071417.png){align=center}
+
+If you used Uplink, there are a few things worth knowing:
+
+1. **Your data will be deleted on 21 December 2026.** That includes user, server and website data. If you want to keep anything, such as your server's logs or case records, copy it out before that date.
+2. **Nobody is buying or selling your data.** The team was very clear that it is not for sale and that people should not ask about it.
+3. **Uplink CAD users** will be contacted directly with more information about their subscriptions.
+4. **For sale:** the Discord server, and some assets including **UplinkOS, Delazer and the Radio and MDT system**, source code and UI assets included. Buyers can reach the team through a ticket in the Uplink server, and the team says it will not sell to anyone with ill intentions.
+
+If your staff team used Uplink for shifts and cases, now is the time to decide where that work will live.
+
+## Where Seshy Fits In
+
+We want to be honest about this part. Seshy is also a Discord bot for ER:LC communities, so we are, in a sense, working in the same space. We will not pretend that does not matter.
+
+But this is not a pitch to Uplink's users, and Seshy is not an Uplink replacement. Uplink was its own thing, with its own ideas, and the people who built it should be remembered for that.
+
+What we can say is what Seshy is. It is a project built by a small team, in the open, with the same simple goal: **give ER:LC communities one place to run their server.** Sessions, shifts, moderation, staff management, logging, tickets and a live ER:LC connection all live in one dashboard, and we keep writing our dev logs so that anyone can see how it is going.
+
+:::callout tip If you are a community moving on
+Take your time, and **export your records before 21 December**. Whatever you choose next, whether it is Seshy or something else, pick the tool that actually fits how your team works.
+:::
+
+## Thank You, Uplink
+
+Small Discord projects do not get many send-offs. They launch, they grow a community, and one day the dashboard stops loading. Radar and ERM went the same way this year, and each of them left something behind for the community that used them.
+
+Uplink started in July and was gone by November. In that time it gave ER:LC communities a free, simple way to moderate, and it left a team of developers, testers and supporters who care about the same things we do.
+
+Thank you to Noah, and to everyone who built, tested, supported and used Uplink. It mattered.
+
+:::right
+*So long, Uplink. We will carry on from here.*
+:::
+CONTENT_END
+
+=====================================
+
 ID: seshy-v2-transition-notice
 TITLE: QA Tester Notice: Early Transition Notice
 SUBHEADING: Seshy V2 is nearly ready. Here is how the move to the official bot will work.
